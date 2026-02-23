@@ -1,0 +1,33 @@
+name: Auto Update SS2022
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Requirements
+        run: pip install aiohttp
+
+      - name: Run Collector Script
+        run: python main.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ss2022/
+          git commit -m "⚡ Auto-update SS2022 | $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push

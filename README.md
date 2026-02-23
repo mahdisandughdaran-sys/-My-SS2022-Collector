@@ -1,0 +1,1 @@
+# -My-SS2022-Collector

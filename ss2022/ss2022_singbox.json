@@ -15,19 +15,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@networld_vpn",
-      "server": "78.38.246.150",
-      "server_port": 8446,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "6e3e43f4-12b7-42f1-8b93-41a152d5612d",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇫🇮",
       "server": "95.217.37.166",
       "server_port": 2020,

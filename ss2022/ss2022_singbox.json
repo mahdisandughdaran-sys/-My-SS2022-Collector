@@ -41,7 +41,33 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "ybxslx1a",
+      "tag": "⚡Telegram = @SOSkeyNET",
+      "server": "nnnnnnnnn.huangshang.online",
+      "server_port": 27446,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "MjM5N2E4ODhjMWQ5NDMxZWE3MWU4ZTQ1YTk4YmFkMzg=:YjliYjMzMmQ1ZTBkNDFhZmFkYWM0OTM2MmRkZTg2NjE=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "https://t.me/allproconf",
+      "server": "57.128.191.90",
+      "server_port": 8390,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "R532mRBv3acPAGakeITDQWJRxyym0pxqvzJPmWCFwHU=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "✅@AR14N24b",
       "server": "tel.imsoon.net",
       "server_port": 44819,
       "method": "2022-blake3-aes-256-gcm",

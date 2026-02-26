@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@FarazV2ray",
+      "tag": " telegram @mtmvpn",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -33,6 +33,19 @@
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",
       "password": "/J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "ybxslx1a",
+      "server": "tel.imsoon.net",
+      "server_port": 44819,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "R5cZqoMsKK60rDMzJ2eTL3XvHlUJNQIgq03vE3G6zq4=:xF2JWYuw/My4KgNJ50RHF+LzWoBNrvj/9GUGBjHVkKs=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

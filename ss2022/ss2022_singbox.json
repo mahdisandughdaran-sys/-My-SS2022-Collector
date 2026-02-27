@@ -54,7 +54,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@AkbarConfig👈کانفیگ روزانه در",
+      "tag": "@nekopingbot_188",
       "server": "51.38.141.210",
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",

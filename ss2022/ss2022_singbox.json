@@ -54,7 +54,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@Proxyiranip",
+      "tag": "@AkbarConfig👈کانفیگ روزانه در",
       "server": "51.38.141.210",
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",
@@ -67,7 +67,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "configraygan_27",
+      "tag": "@SPARTAN_YT",
       "server": "51.38.141.210",
       "server_port": 8390,
       "method": "2022-blake3-aes-256-gcm",

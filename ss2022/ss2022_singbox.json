@@ -80,19 +80,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "جوین چنل شو قط نشی SPARTAN_YT@",
-      "server": "85.208.186.162",
-      "server_port": 56363,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "rQMNBbohiNW85LBlI9rxS+e0HiQ5rxsO8RJI0LbVXtE=:T9B452dhaZIQcFBcRBnP+pxJB29J5IiY/bC1vgGiock=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "V2rayNg_madam",
       "server": "46.225.185.219",
       "server_port": 2087,

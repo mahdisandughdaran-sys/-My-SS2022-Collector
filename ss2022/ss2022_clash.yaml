@@ -1,7 +1,7 @@
 proxies:
-  - {"name": " telegram @mtmvpn", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
+  - {"name": "@FarazV2ray", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
   - {"name": "💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇫🇮", "type": "ss", "server": "95.217.37.166", "port": 2020, "cipher": "2022-blake3-aes-128-gcm", "password": "ietXbfq03Vh8XCaxyCDIEg==", "udp": true}
   - {"name": "https://t.me/allproconf", "type": "ss", "server": "51.38.141.210", "port": 8388, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
-  - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
+  - {"name": "@nekopingbot_188", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
   - {"name": "@SPARTAN_YT", "type": "ss", "server": "51.38.141.210", "port": 8390, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
   - {"name": "V2rayNg_madam", "type": "ss", "server": "46.225.185.219", "port": 2087, "cipher": "2022-blake3-aes-256-gcm", "password": "tcsoRw2iZ5XNxhYLJW3xOZyhEETkTfV6YQEuCCZWbT0=:xGXAe/+qAfkqDrwOAwJiZAj03T7nTQ/CoEtjLkbK49Y=", "udp": true}

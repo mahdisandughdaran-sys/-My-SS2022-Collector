@@ -1,7 +1,6 @@
 proxies:
-  - {"name": "@VPNFARDAD", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
+  - {"name": "@v2ray_proxy_npv+❄️+@ClouddVPN", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
   - {"name": "💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇫🇮", "type": "ss", "server": "95.217.37.166", "port": 2020, "cipher": "2022-blake3-aes-128-gcm", "password": "ietXbfq03Vh8XCaxyCDIEg==", "udp": true}
+  - {"name": "@𝙑2_𝙈𝙊𝘿_𝙎𝙃𝙊𝙋 موقت", "type": "ss", "server": "78.47.221.151", "port": 27831, "cipher": "2022-blake3-aes-256-gcm", "password": "5EI1PNfg1ejaX+LL+djNTuXMx2iXKF12zqU6XaoaP6o=:7CbZelwYyeCJxuJv+N1KPT5ujFyrcBq5MQ7rNNeeuME=", "udp": true}
   - {"name": "https://t.me/allproconf", "type": "ss", "server": "51.38.141.210", "port": 8388, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
   - {"name": "@nekopingbot_188", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
-  - {"name": "⚡Telegram = @SOSkeyNET", "type": "ss", "server": "hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org", "port": 14999, "cipher": "2022-blake3-aes-256-gcm", "password": "mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=", "udp": true}
-  - {"name": "V2rayNg_madam", "type": "ss", "server": "46.225.185.219", "port": 2087, "cipher": "2022-blake3-aes-256-gcm", "password": "tcsoRw2iZ5XNxhYLJW3xOZyhEETkTfV6YQEuCCZWbT0=:xGXAe/+qAfkqDrwOAwJiZAj03T7nTQ/CoEtjLkbK49Y=", "udp": true}

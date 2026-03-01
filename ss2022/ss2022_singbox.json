@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@VPNFARDAD",
+      "tag": "@v2ray_proxy_npv+❄️+@ClouddVPN",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -20,6 +20,19 @@
       "server_port": 2020,
       "method": "2022-blake3-aes-128-gcm",
       "password": "ietXbfq03Vh8XCaxyCDIEg==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@𝙑2_𝙈𝙊𝘿_𝙎𝙃𝙊𝙋 موقت",
+      "server": "78.47.221.151",
+      "server_port": 27831,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "5EI1PNfg1ejaX+LL+djNTuXMx2iXKF12zqU6XaoaP6o=:7CbZelwYyeCJxuJv+N1KPT5ujFyrcBq5MQ7rNNeeuME=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -46,32 +59,6 @@
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "⚡Telegram = @SOSkeyNET",
-      "server": "hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org",
-      "server_port": 14999,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "V2rayNg_madam",
-      "server": "46.225.185.219",
-      "server_port": 2087,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "tcsoRw2iZ5XNxhYLJW3xOZyhEETkTfV6YQEuCCZWbT0=:xGXAe/+qAfkqDrwOAwJiZAj03T7nTQ/CoEtjLkbK49Y=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

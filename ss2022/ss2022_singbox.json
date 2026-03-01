@@ -15,19 +15,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇫🇮",
-      "server": "95.217.37.166",
-      "server_port": 2020,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "ietXbfq03Vh8XCaxyCDIEg==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@𝙑2_𝙈𝙊𝘿_𝙎𝙃𝙊𝙋 موقت",
       "server": "78.47.221.151",
       "server_port": 27831,

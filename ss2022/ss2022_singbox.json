@@ -38,6 +38,19 @@
         "protocol": "smux",
         "max_connections": 8
       }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@AkbarConfig👈کانفیگ روزانه در",
+      "server": "57.131.42.19",
+      "server_port": 8389,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
     }
   ]
 }

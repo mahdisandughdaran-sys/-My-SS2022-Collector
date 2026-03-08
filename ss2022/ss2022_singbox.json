@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@v2ray_proxy_npv+❄️+@ClouddVPN",
+      "tag": "@v2ray_proxy_npv+вқ„пёҸ+@ClouddVPN",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -33,19 +33,6 @@
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": ">>@vmess_iran::XX",
-      "server": "57.131.42.19",
-      "server_port": 8389,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

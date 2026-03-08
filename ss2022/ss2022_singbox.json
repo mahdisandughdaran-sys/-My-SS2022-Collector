@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@v2ray_proxy_npv+вқ„пёҸ+@ClouddVPN",
+      "tag": "@v2ray_proxy_npv+❄️+@ClouddVPN",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",

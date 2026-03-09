@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@v2ray_proxy_npv+❄️+@ClouddVPN",
+      "tag": "@v2ray_proxy_npv+вқ„пёҸ+@ClouddVPN",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -15,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@AkbarConfig👈کانفیگ روزانه در",
+      "tag": "@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",
@@ -28,7 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
+      "tag": "@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",

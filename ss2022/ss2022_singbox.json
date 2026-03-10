@@ -64,6 +64,19 @@
         "protocol": "smux",
         "max_connections": 8
       }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬[openproxylist.com] ss-SG",
+      "server": "43.128.111.119",
+      "server_port": 38012,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "slG+0TTh3ooR89EGCea91CuAmPK4RVUdc7ah9ENN3jY=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
     }
   ]
 }

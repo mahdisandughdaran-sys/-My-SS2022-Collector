@@ -1,7 +1,6 @@
 proxies:
   - {"name": "[🇮🇷]techbod", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
-  - {"name": "🇫🇮476MMad-SS", "type": "ss", "server": "95.217.37.166", "port": 2020, "cipher": "2022-blake3-aes-128-gcm", "password": "ietXbfq03Vh8XCaxyCDIEg==", "udp": true}
-  - {"name": "@Leecher56", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=", "udp": true}
+  - {"name": "@V2rayng_Fast | چنل ما فقط تلگرام", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=", "udp": true}
   - {"name": "https://t.me/allproconf", "type": "ss", "server": "51.38.141.210", "port": 8388, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}

@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@v2ray_proxy_npv+❄️+@ClouddVPN",
+      "tag": "اتصال دائمی با سرور های چنل🍦@Outline_ir",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -59,19 +59,6 @@
       "server_port": 8389,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇸🇬[openproxylist.com] ss-SG",
-      "server": "43.128.111.119",
-      "server_port": 38012,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "slG+0TTh3ooR89EGCea91CuAmPK4RVUdc7ah9ENN3jY=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

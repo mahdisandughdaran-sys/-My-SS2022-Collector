@@ -1,7 +1,6 @@
 proxies:
-  - {"name": "@v2ray_proxy_npv+❄️+@ClouddVPN", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
+  - {"name": "اتصال دائمی با سرور های چنل🍦@Outline_ir", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=", "udp": true}
   - {"name": "https://t.me/allproconf", "type": "ss", "server": "51.38.141.210", "port": 8388, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
   - {"name": "@nekopingbot_188", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
-  - {"name": "🇸🇬[openproxylist.com] ss-SG", "type": "ss", "server": "43.128.111.119", "port": 38012, "cipher": "2022-blake3-aes-256-gcm", "password": "slG+0TTh3ooR89EGCea91CuAmPK4RVUdc7ah9ENN3jY=", "udp": true}

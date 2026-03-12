@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "[🇮🇷]techbod",
+      "tag": "اتصال دائمی با سرور های چنل🍦@Outline_ir",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -15,7 +15,59 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@V2rayng_Fast | چنل ما فقط تلگرام",
+      "tag": "@GuessWhaat - US 142-ss",
+      "server": "142.171.65.106",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@GuessWhaat - US 107-ss",
+      "server": "107.175.134.127",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@GuessWhaat - US 23-ss",
+      "server": "23.95.113.104",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@YamYamProxy",
+      "server": "95.216.238.249",
+      "server_port": 37337,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:sjw/UyRgbni+WxiSoGLe+IZgSCP96FVzHoB7/WBwaW0=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@V2raNinja",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",

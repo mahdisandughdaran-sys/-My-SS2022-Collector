@@ -15,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@GuessWhaat - US 142-ss",
+      "tag": "⚡Telegram = @SOSkeyNET",
       "server": "142.171.65.106",
       "server_port": 8388,
       "method": "2022-blake3-aes-128-gcm",
@@ -28,7 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@GuessWhaat - US 107-ss",
+      "tag": "@crayingroom",
       "server": "107.175.134.127",
       "server_port": 8388,
       "method": "2022-blake3-aes-128-gcm",
@@ -41,7 +41,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@GuessWhaat - US 23-ss",
+      "tag": "@Proxyiranip",
       "server": "23.95.113.104",
       "server_port": 8388,
       "method": "2022-blake3-aes-128-gcm",
@@ -54,7 +54,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@YamYamProxy",
+      "tag": "⚡Telegram = @SOSkeyNET",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",

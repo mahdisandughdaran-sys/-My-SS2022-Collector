@@ -15,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@Hddify",
+      "tag": "SS2022-Free",
       "server": "142.171.65.106",
       "server_port": 8388,
       "method": "2022-blake3-aes-128-gcm",

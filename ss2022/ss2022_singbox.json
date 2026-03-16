@@ -54,19 +54,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@V2HUBIR",
-      "server": "212.87.198.102",
-      "server_port": 8388,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "m3Pf7Z06/wpODD1tmKSyYA==:0t6HqdmT6QHFbdx2EIrK/A==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@V2raNinja",
       "server": "95.216.238.249",
       "server_port": 37337,

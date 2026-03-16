@@ -1,8 +1,8 @@
 proxies:
   - {"name": "اتصال دائمی با سرور های چنل🍦@Outline_ir", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
   - {"name": "@freenettir", "type": "ss", "server": "142.171.65.106", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==", "udp": true}
-  - {"name": "@KurdConfing چنل‌ما", "type": "ss", "server": "107.175.134.127", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==", "udp": true}
-  - {"name": "@ KurdConfing", "type": "ss", "server": "23.95.113.104", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==", "udp": true}
+  - {"name": "@confing_alski | مخزن کانفینگای اسکی", "type": "ss", "server": "107.175.134.127", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==", "udp": true}
+  - {"name": "@irmeliy", "type": "ss", "server": "23.95.113.104", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==", "udp": true}
   - {"name": "@V2raNinja", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=", "udp": true}
   - {"name": "@AkbarConfig👈کانفیگ روزانه در", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=", "udp": true}

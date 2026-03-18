@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "Ш§ШӘШөШ§Щ„ ШҜШ§ШҰЩ…ЫҢ ШЁШ§ ШіШұЩҲШұ ЩҮШ§ЫҢ ЪҶЩҶЩ„рҹҚҰ@Outline_ir",
+      "tag": "اتصال دائمی با سرور های چنل🍦@Outline_ir",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
@@ -28,7 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "рҹ”ҘJoin Telegram:@NpvOnвҡЎпёҸ",
+      "tag": "🔥Join Telegram:@NpvOn⚡️",
       "server": "107.175.134.127",
       "server_port": 8388,
       "method": "2022-blake3-aes-128-gcm",
@@ -67,7 +67,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ",
+      "tag": "@AkbarConfig👈کانفیگ روزانه در",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",
@@ -80,7 +80,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@AkbarConfigрҹ‘ҲЪ©Ш§ЩҶЩҒЫҢЪҜ ШұЩҲШІШ§ЩҶЩҮ ШҜШұ",
+      "tag": "@AkbarConfig👈کانفیگ روزانه در",
       "server": "95.216.238.249",
       "server_port": 37337,
       "method": "2022-blake3-aes-256-gcm",

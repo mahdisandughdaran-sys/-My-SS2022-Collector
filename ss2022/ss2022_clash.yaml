@@ -1,5 +1,11 @@
 proxies:
-  - {"name": "All-@V2rayAlpha--12", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
+  - {"name": "@V2rayBaaz", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}
+  - {"name": "@icv2ray", "type": "ss", "server": "142.171.65.106", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==", "udp": true}
+  - {"name": "@proxy_kafee.سایفون2", "type": "ss", "server": "23.95.113.104", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==", "udp": true}
+  - {"name": "🦉@FreeConfigForYou", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=", "udp": true}
   - {"name": "IR+@V2rayAlpha-2", "type": "ss", "server": "51.178.85.208", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=", "udp": true}
-  - {"name": "All-@V2rayAlpha-4", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
+  - {"name": "@icv2ray", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=", "udp": true}
+  - {"name": "@v2raybaaz 🏀", "type": "ss", "server": "51.38.141.210", "port": 8389, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
+  - {"name": "@V2rayBaaz⛄️", "type": "ss", "server": "51.38.141.210", "port": 8390, "cipher": "2022-blake3-aes-256-gcm", "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=", "udp": true}
   - {"name": "IR+@V2rayAlpha-0", "type": "ss", "server": "57.131.41.129", "port": 8390, "cipher": "2022-blake3-aes-256-gcm", "password": "etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=", "udp": true}
+  - {"name": "v2ray_freex", "type": "ss", "server": "92.42.207.84", "port": 33342, "cipher": "2022-blake3-aes-256-gcm", "password": "uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:5zbwUCUkXlWvcRr+CwEd63gNGdeWabGweyu+xQuPx4U=", "udp": true}

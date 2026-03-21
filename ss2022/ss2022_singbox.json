@@ -2,11 +2,50 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "All-@V2rayAlpha--12",
+      "tag": "@V2rayBaaz",
       "server": "46.38.143.236",
       "server_port": 60633,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@icv2ray",
+      "server": "142.171.65.106",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@proxy_kafee.سایفون2",
+      "server": "23.95.113.104",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🦉@FreeConfigForYou",
+      "server": "95.216.238.249",
+      "server_port": 37337,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -28,9 +67,35 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "All-@V2rayAlpha-4",
+      "tag": "@icv2ray",
+      "server": "95.216.238.249",
+      "server_port": 37337,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@v2raybaaz 🏀",
       "server": "51.38.141.210",
       "server_port": 8389,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@V2rayBaaz⛄️",
+      "server": "51.38.141.210",
+      "server_port": 8390,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=",
       "multiplex": {
@@ -46,6 +111,19 @@
       "server_port": 8390,
       "method": "2022-blake3-aes-256-gcm",
       "password": "etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "v2ray_freex",
+      "server": "92.42.207.84",
+      "server_port": 33342,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "uFpeCWbOncecNPea57duCPEOB1lwGRejzBEfziPms1c=:5zbwUCUkXlWvcRr+CwEd63gNGdeWabGweyu+xQuPx4U=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

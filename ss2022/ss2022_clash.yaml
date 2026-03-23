@@ -1,3 +1,4 @@
 proxies:
   - {"name": "SS2022-Free", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "//LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=", "udp": true}
+  - {"name": "@v2_mod_shop (تلگرام)", "type": "ss", "server": "193.151.141.100", "port": 24574, "cipher": "2022-blake3-aes-256-gcm", "password": "TB2A4q8w42DYlm+dTZGvz4MDNxxNqh/OsvL7rS4SMI4=:KknH67qYS99xY2hAzPs66dicrEKRFoDsp6A1ZVOVVdY=", "udp": true}
   - {"name": "@v2npv 🚀 اتصال رایگان", "type": "ss", "server": "95.216.238.249", "port": 37337, "cipher": "2022-blake3-aes-256-gcm", "password": "Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=", "udp": true}

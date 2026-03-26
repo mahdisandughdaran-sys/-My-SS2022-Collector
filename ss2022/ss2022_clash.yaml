@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "Tidalpulse&goorbaalii", "type": "ss", "server": "91.220.113.214", "port": 34262, "cipher": "2022-blake3-aes-256-gcm", "password": "J5KqtYhJbpZAMcoBR24xmvLge8Dfdh1jVMvAUxkqdHM=:fg0XXhIW1rvTH1Dlvag2yEH7lMLK7nVplJoBXzGjYk8=", "udp": true}
+  - {"name": "Tidalpulse&goorbaalii     دوستان این سرور تست 100 مگی نخوریدش فقط و دانلود هم", "type": "ss", "server": "91.220.113.214", "port": 34262, "cipher": "2022-blake3-aes-256-gcm", "password": "J5KqtYhJbpZAMcoBR24xmvLge8Dfdh1jVMvAUxkqdHM=:fg0XXhIW1rvTH1Dlvag2yEH7lMLK7nVplJoBXzGjYk8=", "udp": true}

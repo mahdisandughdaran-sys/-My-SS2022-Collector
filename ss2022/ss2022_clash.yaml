@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "@icv2ray", "type": "ss", "server": "toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org", "port": 12407, "cipher": "2022-blake3-aes-256-gcm", "password": "mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=", "udp": true}
+  - {"name": "Tidalpulse&goorbaalii", "type": "ss", "server": "91.220.113.214", "port": 34262, "cipher": "2022-blake3-aes-256-gcm", "password": "J5KqtYhJbpZAMcoBR24xmvLge8Dfdh1jVMvAUxkqdHM=:fg0XXhIW1rvTH1Dlvag2yEH7lMLK7nVplJoBXzGjYk8=", "udp": true}

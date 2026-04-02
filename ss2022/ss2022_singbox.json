@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
-      "server": "one.webchipro2.ir",
-      "server_port": 24574,
+      "tag": "@V2rayTun0",
+      "server": "Sep.itissia.shop",
+      "server_port": 34262,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "TB2A4q8w42DYlm+dTZGvz4MDNxxNqh/OsvL7rS4SMI4=:G8XIN/hPUPzolPRlcshkCEY6VJmdM0Ig7/FeGQ1AvOA=",
+      "password": "J5KqtYhJbpZAMcoBR24xmvLge8Dfdh1jVMvAUxkqdHM=:EQEWiBu/9R147y6HxNNXuWF+6fpUlu2hMCD8kPByNx8=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

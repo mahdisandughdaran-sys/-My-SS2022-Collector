@@ -12,19 +12,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@V2rayTun0",
-      "server": "kelash3.mgodping12.xyz",
-      "server_port": 23593,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "mqcQRP+R3EqXu0yrT21f6sZT4YjL2NOM2g1mtxREK9w=:gZyuIgO4E5eeW6xovb5nMR0urz3CGEcRtymYwzQ3SH8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

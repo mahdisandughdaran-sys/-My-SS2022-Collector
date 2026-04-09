@@ -1,2 +1,3 @@
 proxies:
-  - {"name": "@cllubvpn لطفا برای حمایت جوین شید", "type": "ss", "server": "netjangi.mosti.ir", "port": 22581, "cipher": "2022-blake3-aes-256-gcm", "password": "lmuma0Dof/vSc0Pj3PMDUuyLjdkDRCivH5cbC12wYnw=:rL+UMirFX405+r/cAnwSYPMky9w+3udpc3m9y9BwF/U=", "udp": true}
+  - {"name": "@V2rayTun0", "type": "ss", "server": "shop.webchipro2.ir", "port": 20088, "cipher": "2022-blake3-aes-256-gcm", "password": "Fs4mPksCX9sWbevjL2VLavPMnkTGzJTrbjEUK/9fw0Q=:XQhWOY7tghgm6aM6NFvJGq0/1P7gv/1ebXt/dZZuFkM=", "udp": true}
+  - {"name": "@V2rayTun0", "type": "ss", "server": "kelash3.mgodping12.xyz", "port": 23593, "cipher": "2022-blake3-aes-256-gcm", "password": "mqcQRP+R3EqXu0yrT21f6sZT4YjL2NOM2g1mtxREK9w=:gZyuIgO4E5eeW6xovb5nMR0urz3CGEcRtymYwzQ3SH8=", "udp": true}

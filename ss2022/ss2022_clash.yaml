@@ -1,3 +1,2 @@
 proxies:
-  - {"name": "@UnNurmal", "type": "ss", "server": "185.206.92.248", "port": 8080, "cipher": "2022-blake3-aes-256-gcm", "password": "CahCrC1C0+grW7HXQSIkZtWmx53xJd+9oxt42ilTL6c=:xrQuxzldT0cBtnSfWZg0glWSMsVsRlSmy47dsw9P+wA=", "udp": true}
-  - {"name": "@ghalagyann", "type": "ss", "server": "netprivacy.mosti.ir", "port": 22583, "cipher": "2022-blake3-aes-256-gcm", "password": "xb/AbRLzVQh/qE4GEgv5YbBMOgW5KVU9XL8WuI7eu1E=:L0fBZZViLjrQjiMuIoKYIZ3rkGV4Be8tDOsnzXyMPgs=", "udp": true}
+  - {"name": "@ghalagyann", "type": "ss", "server": "185.206.92.248", "port": 8080, "cipher": "2022-blake3-aes-256-gcm", "password": "CahCrC1C0+grW7HXQSIkZtWmx53xJd+9oxt42ilTL6c=:xrQuxzldT0cBtnSfWZg0glWSMsVsRlSmy47dsw9P+wA=", "udp": true}

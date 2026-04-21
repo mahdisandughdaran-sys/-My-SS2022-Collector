@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "@ghalagyann", "type": "ss", "server": "185.206.92.248", "port": 8080, "cipher": "2022-blake3-aes-256-gcm", "password": "CahCrC1C0+grW7HXQSIkZtWmx53xJd+9oxt42ilTL6c=:xrQuxzldT0cBtnSfWZg0glWSMsVsRlSmy47dsw9P+wA=", "udp": true}
+  - {"name": "canfingV2rayNG-5", "type": "ss", "server": "46.38.143.236", "port": 60633, "cipher": "2022-blake3-chacha20-poly1305", "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=", "udp": true}

@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@ghalagyann",
-      "server": "185.206.92.248",
-      "server_port": 8080,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "CahCrC1C0+grW7HXQSIkZtWmx53xJd+9oxt42ilTL6c=:xrQuxzldT0cBtnSfWZg0glWSMsVsRlSmy47dsw9P+wA=",
+      "tag": "canfingV2rayNG-5",
+      "server": "46.38.143.236",
+      "server_port": 60633,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

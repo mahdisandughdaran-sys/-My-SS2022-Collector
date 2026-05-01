@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "@filtershekan_channel", "type": "ss", "server": "217.60.243.112", "port": 42792, "cipher": "2022-blake3-aes-256-gcm", "password": "U1sjqickh+8Oj5Ud3bZy3zh0NEH+AIet/DQM0B9XteA=:sVrABKZIDI+Ny+oMWgHlUKJFxlCAmJhTWmw5XxMa5xg=", "udp": true}
+  - {"name": "neet_done👈چنلمون", "type": "ss", "server": "217.60.243.112", "port": 42792, "cipher": "2022-blake3-aes-256-gcm", "password": "U1sjqickh+8Oj5Ud3bZy3zh0NEH+AIet/DQM0B9XteA=:sVrABKZIDI+Ny+oMWgHlUKJFxlCAmJhTWmw5XxMa5xg=", "udp": true}

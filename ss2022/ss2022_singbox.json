@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@filtershekan_channel",
+      "tag": "neet_done👈چنلمون",
       "server": "217.60.243.112",
       "server_port": 42792,
       "method": "2022-blake3-aes-256-gcm",

@@ -12,6 +12,19 @@
         "protocol": "smux",
         "max_connections": 8
       }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@YamYamProxy",
+      "server": "92.114.24.178",
+      "server_port": 443,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "wZ4yIvhSBwupwPczd15rFkd+E/RicaC8A0ChlEaclno=:J/tHIJYJuq2Pgs9TPIaw3eUNRXwYQXnr7io7FaXlVuw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
     }
   ]
 }

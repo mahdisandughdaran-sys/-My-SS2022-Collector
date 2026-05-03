@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "neet_done👈چنلمون",
-      "server": "217.60.243.112",
-      "server_port": 42792,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "U1sjqickh+8Oj5Ud3bZy3zh0NEH+AIet/DQM0B9XteA=:sVrABKZIDI+Ny+oMWgHlUKJFxlCAmJhTWmw5XxMa5xg=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@YamYamProxy",
       "server": "92.114.24.178",
       "server_port": 443,

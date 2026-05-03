@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "@Gangstersdonotcry",
+      "server": "iran.mamad-imnix.ir",
+      "server_port": 3946,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "mZyz5qeFwZ4TWi5MMHwZ9Yd8xDJ/IolUVW+yn0dcDrU=:eYJ7RrEpxyevcG6rPMxuD1+VMJCJU6poLiwyJvLPamM=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@YamYamProxy",
       "server": "92.114.24.178",
       "server_port": 443,

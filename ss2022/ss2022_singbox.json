@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "@electvpn0",
+      "server": "vip.pishigaman.sbs",
+      "server_port": 22537,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:TExTSmY1ZDh2UUFuSHRoekRKQ2Exc2pTNUxWM2hvd2M=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "gp1-https://t.me/torguard_vpn_1",
       "server": "tg2.kurdanmal.ir",
       "server_port": 38441,

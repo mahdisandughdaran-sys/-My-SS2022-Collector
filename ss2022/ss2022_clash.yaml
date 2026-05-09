@@ -1,4 +1,4 @@
 proxies:
   - {"name": "@electvpn0", "type": "ss", "server": "vip.pishigaman.sbs", "port": 22537, "cipher": "2022-blake3-aes-256-gcm", "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:TExTSmY1ZDh2UUFuSHRoekRKQ2Exc2pTNUxWM2hvd2M=", "udp": true}
   - {"name": "@KurdConfing", "type": "ss", "server": "87.107.111.105", "port": 80, "cipher": "2022-blake3-aes-256-gcm", "password": "o30//zmQZnW+G6ltbwiNOTABtr6JLyL0MBwud0gd0FY=:OOqqJFHr5KZXQIhU1AdXGOSmFAGoE/vlfgKhsTrSWLc=", "udp": true}
-  - {"name": "@v2rayRoom", "type": "ss", "server": "coinex.xvoidx.com", "port": 2052, "cipher": "2022-blake3-aes-256-gcm", "password": "w4Mh28Rr03zcRt++BfpAdMvx5ulFz3444YvBtteB1to=:hCLCBFzBWWUSlGQgGnYDrDe+XFQoS8NQjkFriXJ3jxg=", "udp": true}
+  - {"name": "✅️@Shomarrreh ¹", "type": "ss", "server": "coinex.xvoidx.com", "port": 2052, "cipher": "2022-blake3-aes-256-gcm", "password": "w4Mh28Rr03zcRt++BfpAdMvx5ulFz3444YvBtteB1to=:hCLCBFzBWWUSlGQgGnYDrDe+XFQoS8NQjkFriXJ3jxg=", "udp": true}

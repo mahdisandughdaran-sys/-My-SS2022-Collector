@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇺🇸 t.me/Natrixo AA",
+      "server": "130.51.23.246",
+      "server_port": 443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "EyFoctfXyIQVz08mPSsPvfolnauD3wTNjJNhpEEm5Rk=:YTUnqez4aQGFm/NMgiindO8unN7A/bC1XJnnKPuM9J8=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@electvpn0",
       "server": "vip.pishigaman.sbs",
       "server_port": 22537,

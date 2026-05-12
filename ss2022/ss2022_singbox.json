@@ -15,24 +15,11 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "lldalall",
-      "server": "up.jibjob.mom",
-      "server_port": 59191,
+      "tag": "@config4k _ کانال تلگرام",
+      "server": "37.32.40.49",
+      "server_port": 3333,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "biQ9ouJNRNxAq3xER2wfu1paGMCszjsXMJQQsmZpPro=:3rFBq/P++H6WZzr+4YEK+BCGRB3TFXgU26li67W0plE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "📺 Psiphon--@V2rayAlpha-1",
-      "server": "87.107.111.105",
-      "server_port": 80,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "o30//zmQZnW+G6ltbwiNOTABtr6JLyL0MBwud0gd0FY=:OOqqJFHr5KZXQIhU1AdXGOSmFAGoE/vlfgKhsTrSWLc=",
+      "password": "XsWymwRfQDbmnhVRClAs8ZxVAlbtgI4pt4DNCajAFo8=:Se4YCJ2eD+xjp2Cb3M9NUUp6tusu243n3NeQe2/twH8=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

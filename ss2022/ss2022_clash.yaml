@@ -1,4 +1,5 @@
 proxies:
   - {"name": "@electvpn0", "type": "ss", "server": "vip.pishigaman.sbs", "port": 22537, "cipher": "2022-blake3-aes-256-gcm", "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:TExTSmY1ZDh2UUFuSHRoekRKQ2Exc2pTNUxWM2hvd2M=", "udp": true}
-  - {"name": "@config4k _ کانال تلگرام", "type": "ss", "server": "37.32.40.49", "port": 3333, "cipher": "2022-blake3-aes-256-gcm", "password": "XsWymwRfQDbmnhVRClAs8ZxVAlbtgI4pt4DNCajAFo8=:Se4YCJ2eD+xjp2Cb3M9NUUp6tusu243n3NeQe2/twH8=", "udp": true}
+  - {"name": "@config4k _ Џ©ЎІўЖЎІўД Ў™ўДЏѓЎ±ЎІўЕ", "type": "ss", "server": "37.32.40.49", "port": 3333, "cipher": "2022-blake3-aes-256-gcm", "password": "XsWymwRfQDbmnhVRClAs8ZxVAlbtgI4pt4DNCajAFo8=:Se4YCJ2eD+xjp2Cb3M9NUUp6tusu243n3NeQe2/twH8=", "udp": true}
   - {"name": "lldalall", "type": "ss", "server": "up.jibjob.mom", "port": 59191, "cipher": "2022-blake3-aes-256-gcm", "password": "biQ9ouJNRNxAq3xER2wfu1paGMCszjsXMJQQsmZpPro=:3rFBq/P++H6WZzr+4YEK+BCGRB3TFXgU26li67W0plE=", "udp": true}
+  - {"name": "@filembad", "type": "ss", "server": "free.jibjob.mom", "port": 18318, "cipher": "2022-blake3-aes-256-gcm", "password": "yK2XZRdzYaPPzHFo+KZ5kAiVMUmGawc3/hzlgNZkyWM=:RUSd6fL1SuV5iPObMF7dAjgCUAtYqvmJX/2lskpjWys=", "udp": true}

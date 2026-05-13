@@ -2,32 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@electvpn0",
-      "server": "vip.pishigaman.sbs",
-      "server_port": 22537,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:TExTSmY1ZDh2UUFuSHRoekRKQ2Exc2pTNUxWM2hvd2M=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@config4k _ Џ©ЎІўЖЎІўД Ў™ўДЏѓЎ±ЎІўЕ",
-      "server": "37.32.40.49",
-      "server_port": 3333,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "XsWymwRfQDbmnhVRClAs8ZxVAlbtgI4pt4DNCajAFo8=:Se4YCJ2eD+xjp2Cb3M9NUUp6tusu243n3NeQe2/twH8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "lldalall",
       "server": "up.jibjob.mom",
       "server_port": 59191,
@@ -41,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
+      "tag": "filembad-3",
       "server": "free.jibjob.mom",
       "server_port": 18318,
       "method": "2022-blake3-aes-256-gcm",

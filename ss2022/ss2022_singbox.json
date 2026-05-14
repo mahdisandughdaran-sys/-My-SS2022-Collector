@@ -12,19 +12,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "filembad-3",
-      "server": "free.jibjob.mom",
-      "server_port": 18318,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "yK2XZRdzYaPPzHFo+KZ5kAiVMUmGawc3/hzlgNZkyWM=:RUSd6fL1SuV5iPObMF7dAjgCUAtYqvmJX/2lskpjWys=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

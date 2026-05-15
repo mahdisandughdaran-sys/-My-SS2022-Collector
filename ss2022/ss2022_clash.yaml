@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "@BliitzUp | زمان بدید", "type": "ss", "server": "94.183.173.225", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "4YNXRYPsRGCrcfweuk7/HYCxRxg8A6aMpdmXAMnrubk=:06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=", "udp": true}
+  - {"name": "@Pirimod", "type": "ss", "server": "94.183.173.225", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "4YNXRYPsRGCrcfweuk7/HYCxRxg8A6aMpdmXAMnrubk=:06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=", "udp": true}

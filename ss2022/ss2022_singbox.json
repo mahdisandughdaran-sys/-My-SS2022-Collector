@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@BliitzUp | زمان بدید",
+      "tag": "@Pirimod",
       "server": "94.183.173.225",
       "server_port": 443,
       "method": "2022-blake3-aes-256-gcm",

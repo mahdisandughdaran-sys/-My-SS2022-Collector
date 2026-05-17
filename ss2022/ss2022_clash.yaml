@@ -1,3 +1,11 @@
 proxies:
-  - {"name": "@Pirimod", "type": "ss", "server": "94.183.173.225", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "4YNXRYPsRGCrcfweuk7/HYCxRxg8A6aMpdmXAMnrubk=:06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "117.149.251.164", "port": 30001, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "117.149.251.164", "port": 30002, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "117.149.251.164", "port": 30003, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "117.149.251.164", "port": 30004, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "120.226.75.149", "port": 30001, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "120.226.75.149", "port": 30002, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "120.226.75.149", "port": 30003, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "🇭🇰HK_@WangCai_8", "type": "ss", "server": "120.226.75.149", "port": 30004, "cipher": "2022-blake3-aes-128-gcm", "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==", "udp": true}
+  - {"name": "@V2ray_confiig", "type": "ss", "server": "94.183.173.225", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "4YNXRYPsRGCrcfweuk7/HYCxRxg8A6aMpdmXAMnrubk=:06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=", "udp": true}
   - {"name": "lldalall", "type": "ss", "server": "up.jibjob.mom", "port": 59191, "cipher": "2022-blake3-aes-256-gcm", "password": "biQ9ouJNRNxAq3xER2wfu1paGMCszjsXMJQQsmZpPro=:3rFBq/P++H6WZzr+4YEK+BCGRB3TFXgU26li67W0plE=", "udp": true}

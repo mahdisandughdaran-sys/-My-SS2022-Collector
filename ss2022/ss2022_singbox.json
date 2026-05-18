@@ -2,102 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "117.149.251.164",
-      "server_port": 30001,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "117.149.251.164",
-      "server_port": 30002,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "117.149.251.164",
-      "server_port": 30003,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "117.149.251.164",
-      "server_port": 30004,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "120.226.75.149",
-      "server_port": 30001,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "120.226.75.149",
-      "server_port": 30002,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "120.226.75.149",
-      "server_port": 30003,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇭🇰HK_@WangCai_8",
-      "server": "120.226.75.149",
-      "server_port": 30004,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MDBlM2E1NjlhODY0YmJiZA==:NGJlMzdhMzEtYTI0OS00Ng==",
+      "tag": "@Pirimod",
+      "server": "94.183.173.225",
+      "server_port": 443,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "4ENXRYPsRGRcrfweuk7/HYCxRxg8A6aMpdmXAMnrubk::06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

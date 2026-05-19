@@ -12,19 +12,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "lldalall",
-      "server": "up.jibjob.mom",
-      "server_port": 59191,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "biQ9ouJNRNxAq3xER2wfu1paGMCszjsXMJQQsmZpPro=:3rFBq/P++H6WZzr+4YEK+BCGRB3TFXgU26li67W0plE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

@@ -2,11 +2,50 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@V2ray_confiig",
+      "tag": "v2ray_dalghak",
+      "server": "212.100.171.175",
+      "server_port": 2053,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "cenyk4NLLPSrHZfhvSTcvGPhdSLAbyAi9fC+yJd+c4I=:1IAt7CF23IAG/RRywaRU34eoroa5hSJ+fSfdCo+OkMw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@GOLD_VPN_IR",
       "server": "94.183.173.225",
       "server_port": 443,
       "method": "2022-blake3-aes-256-gcm",
       "password": "4YNXRYPsRGCrcfweuk7/HYCxRxg8A6aMpdmXAMnrubk=:06+7CfyFYFqtWynq7KYThuqr6jNMx5lZjFMbn785bLw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@SariinaVpn🌟",
+      "server": "plus.leoshop.pw",
+      "server_port": 18478,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷26350 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "coinex.xvoidx.com",
+      "server_port": 8080,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "kggDNDfGs4B88Vj9/ZgO9zse7C7eW75c+DR5NbG15tg=:8TIOB6ROw22LCeyaaFhMpCCOR+/baa1hkXRVF297kko=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

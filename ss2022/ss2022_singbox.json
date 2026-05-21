@@ -15,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@GOLD_VPN_IR",
+      "tag": "Unknown | 🌐 IP: N/A | ⏳ping:4162.16ms | 📢 @NamazVPN",
       "server": "94.183.173.225",
       "server_port": 443,
       "method": "2022-blake3-aes-256-gcm",
@@ -33,19 +33,6 @@
       "server_port": 18478,
       "method": "2022-blake3-aes-256-gcm",
       "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷26350 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "coinex.xvoidx.com",
-      "server_port": 8080,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "kggDNDfGs4B88Vj9/ZgO9zse7C7eW75c+DR5NbG15tg=:8TIOB6ROw22LCeyaaFhMpCCOR+/baa1hkXRVF297kko=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

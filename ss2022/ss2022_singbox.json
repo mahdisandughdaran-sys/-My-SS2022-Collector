@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "v2ray_dalghak",
-      "server": "212.100.171.175",
-      "server_port": 2053,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "cenyk4NLLPSrHZfhvSTcvGPhdSLAbyAi9fC+yJd+c4I=:1IAt7CF23IAG/RRywaRU34eoroa5hSJ+fSfdCo+OkMw=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "Unknown | 🌐 IP: N/A | ⏳ping:4162.16ms | 📢 @NamazVPN",
       "server": "94.183.173.225",
       "server_port": 443,

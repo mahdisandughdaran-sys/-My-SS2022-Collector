@@ -15,6 +15,19 @@
     },
     {
       "type": "shadowsocks",
+      "tag": "@filembad",
+      "server": "37.32.22.192",
+      "server_port": 45331,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "RDFS2fwMSwLfrdvDy5x4qo0i+R9GX2T/OO2NCCsviPs=:ioULIyByCSEHFK/OfzYYxUQ2XbSwrQwvQTrJ1GApZ4Q=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@SariinaVpn🌟",
       "server": "plus.leoshop.pw",
       "server_port": 18478,

@@ -2,37 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
+      "tag": "filembad-2",
       "server": "92.119.58.228",
       "server_port": 8520,
       "method": "2022-blake3-aes-128-gcm",
       "password": "0VQOjQKItano9KM6N243EtQbcMlmC3Vq:GpdBlY6GYgYNBgaCe1dftA==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷27649 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "92.119.58.228",
-      "server_port": 8758,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "4ARfiWa1sSKIJLigY1YdUyNMOpgtp4FJ:ecdsUX/oTZH01jQDv6xq9w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷27620 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "185.239.3.215",
-      "server_port": 18478,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

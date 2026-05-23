@@ -1,3 +1,2 @@
 proxies:
-  - {"name": "filembad-2", "type": "ss", "server": "92.119.58.228", "port": 8520, "cipher": "2022-blake3-aes-128-gcm", "password": "0VQOjQKItano9KM6N243EtQbcMlmC3Vq:GpdBlY6GYgYNBgaCe1dftA==", "udp": true}
   - {"name": "@SariinaVpn🌟", "type": "ss", "server": "plus.leoshop.pw", "port": 18478, "cipher": "2022-blake3-aes-256-gcm", "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=", "udp": true}

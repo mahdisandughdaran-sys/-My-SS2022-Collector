@@ -38,19 +38,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷28569 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "185.206.95.216",
-      "server_port": 23201,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "kMZ6ZJb3/KLTj5ZpzVUGdRbncqIGt+dChKgVA3S7plY=:L1CEfuVXgYmrus/ZsV/zn4FDHRFordfrWb5FeXhHjb8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

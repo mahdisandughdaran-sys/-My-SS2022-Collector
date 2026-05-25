@@ -1,4 +1,4 @@
 proxies:
   - {"name": "@SariinaVpn🌟", "type": "ss", "server": "plus.leoshop.pw", "port": 18478, "cipher": "2022-blake3-aes-256-gcm", "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=", "udp": true}
-  - {"name": "@BliitzUp", "type": "ss", "server": "185.165.118.73", "port": 4646, "cipher": "2022-blake3-aes-256-gcm", "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=", "udp": true}
-  - {"name": "@Pirimod", "type": "ss", "server": "coinex.xvoidx.com", "port": 2052, "cipher": "2022-blake3-aes-256-gcm", "password": "phh2GBIgqF/O56qMQgF22f5g7ytTUpLR7S2YVlRun1E=:bKwIM0nhHiLfb/+nrbC8GkZo3kR12Q6ZLwliyUooi0k=", "udp": true}
+  - {"name": "@speedtunnel", "type": "ss", "server": "185.165.118.73", "port": 4646, "cipher": "2022-blake3-aes-256-gcm", "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=", "udp": true}
+  - {"name": "🇮🇷28569 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "185.206.95.216", "port": 23201, "cipher": "2022-blake3-aes-256-gcm", "password": "kMZ6ZJb3/KLTj5ZpzVUGdRbncqIGt+dChKgVA3S7plY=:L1CEfuVXgYmrus/ZsV/zn4FDHRFordfrWb5FeXhHjb8=", "udp": true}

@@ -1,6 +1,4 @@
 proxies:
   - {"name": "🇮🇷29093 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "81.12.57.241", "port": 442, "cipher": "2022-blake3-aes-128-gcm", "password": "K1J/SyaljFONZnqaJigMfQ==:mtOGmL1vazbouJgLX3JMTA==", "udp": true}
-  - {"name": "🇮🇷28935 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "s1.veraspeed.ir", "port": 442, "cipher": "2022-blake3-aes-128-gcm", "password": "K1J/SyaljFONZnqaJigMfQ==:mtOGmL1vazbouJgLX3JMTA==", "udp": true}
-  - {"name": "🇮🇷28957 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "95.38.190.24", "port": 3375, "cipher": "2022-blake3-aes-256-gcm", "password": "Pa8oWKsL19gni+KzTwXLsetQT0TmLXnivqo/g1g9WNk=:i1tM2ueUwvj1ESgCH18KPXqXz9ezgAg+bUaVvOabl6Q=", "udp": true}
   - {"name": "@SariinaVpn🌟", "type": "ss", "server": "plus.leoshop.pw", "port": 18478, "cipher": "2022-blake3-aes-256-gcm", "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=", "udp": true}
-  - {"name": "@speedtunnel", "type": "ss", "server": "185.165.118.73", "port": 4646, "cipher": "2022-blake3-aes-256-gcm", "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=", "udp": true}
+  - {"name": "@icv2ray", "type": "ss", "server": "185.165.118.73", "port": 4646, "cipher": "2022-blake3-aes-256-gcm", "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=", "udp": true}

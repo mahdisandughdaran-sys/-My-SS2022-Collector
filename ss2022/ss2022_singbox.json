@@ -2,11 +2,24 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷29559 | ⚡️Telegram = t.me/SOSkeyNET",
+      "tag": "@musiclovers85جوین بدید",
       "server": "193.151.133.97",
       "server_port": 443,
       "method": "2022-blake3-aes-256-gcm",
       "password": "AiRDj9RfDwXeUhZvU2ETxeyxgrpD12P/o81wt5XGX4s=:w7CLLQoTRltOUctfIaB1ifCqVs5obMHRILGzUiXFE+U=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪31342 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "91.107.247.25",
+      "server_port": 8083,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "NWRbLv+NIz5+zssu7nxk+fCw7wDHYLFbWy4m3Ey7Oo0=:MIedpwLQ84+CGETW0tfC0TR8HVAsw5A1sI+Lj+0iEyk=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

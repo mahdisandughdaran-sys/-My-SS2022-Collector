@@ -1,4 +1,5 @@
 proxies:
-  - {"name": "🇮🇷29559 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "193.151.133.97", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "AiRDj9RfDwXeUhZvU2ETxeyxgrpD12P/o81wt5XGX4s=:w7CLLQoTRltOUctfIaB1ifCqVs5obMHRILGzUiXFE+U=", "udp": true}
+  - {"name": "@musiclovers85جوین بدید", "type": "ss", "server": "193.151.133.97", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "AiRDj9RfDwXeUhZvU2ETxeyxgrpD12P/o81wt5XGX4s=:w7CLLQoTRltOUctfIaB1ifCqVs5obMHRILGzUiXFE+U=", "udp": true}
+  - {"name": "🇩🇪31342 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "91.107.247.25", "port": 8083, "cipher": "2022-blake3-aes-256-gcm", "password": "NWRbLv+NIz5+zssu7nxk+fCw7wDHYLFbWy4m3Ey7Oo0=:MIedpwLQ84+CGETW0tfC0TR8HVAsw5A1sI+Lj+0iEyk=", "udp": true}
   - {"name": "@SariinaVpn🌟", "type": "ss", "server": "plus.leoshop.pw", "port": 18478, "cipher": "2022-blake3-aes-256-gcm", "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=", "udp": true}
   - {"name": "@icv2ray", "type": "ss", "server": "185.165.118.73", "port": 4646, "cipher": "2022-blake3-aes-256-gcm", "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=", "udp": true}

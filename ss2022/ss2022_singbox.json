@@ -2,50 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@musiclovers85جوین بدید",
-      "server": "193.151.133.97",
-      "server_port": 443,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "AiRDj9RfDwXeUhZvU2ETxeyxgrpD12P/o81wt5XGX4s=:w7CLLQoTRltOUctfIaB1ifCqVs5obMHRILGzUiXFE+U=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪31646 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "91.107.247.25",
-      "server_port": 8083,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "NWRbLv+NIz5+zssu7nxk+fCw7wDHYLFbWy4m3Ey7Oo0=:MIedpwLQ84+CGETW0tfC0TR8HVAsw5A1sI+Lj+0iEyk=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@SariinaVpn🌟",
       "server": "plus.leoshop.pw",
       "server_port": 18478,
       "method": "2022-blake3-aes-256-gcm",
       "password": "ayPz/X2X6JpqqyOigeaEOEeRCleWA+osESHblEugkU4=:zNKJayM/XGbeqx58XEP7Uq/C9Xk4TtjC2LwRVh73Ri4=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@icv2ray",
-      "server": "185.165.118.73",
-      "server_port": 4646,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "dc/BaxrPS5/uZNTTPxv5I3hhRNRwhTb8q79UGTsaDcc=:6NB1G10KOiZ2ERyD2RigBJZAVq7Ds2jGJYu1syfjC68=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

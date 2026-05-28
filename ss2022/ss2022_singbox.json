@@ -2,6 +2,71 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "SHOP_GAMING1011",
+      "server": "5.160.47.211",
+      "server_port": 8443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "mzIpfHoVH/Xrnk3cuSb9aw==:BnAH3V0LNH4ufyymGumTkQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@subioir",
+      "server": "5.160.47.213",
+      "server_port": 8443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "mzIpfHoVH/Xrnk3cuSb9aw==:lRE3IQlZpEHXn1jo4/Yd2w==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷33123 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "5.160.47.212",
+      "server_port": 8443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "mzIpfHoVH/Xrnk3cuSb9aw==:uepjlaIqNqbRK877YCxN2Q==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷33129 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "5.160.47.214",
+      "server_port": 8443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "mzIpfHoVH/Xrnk3cuSb9aw==:uepjlaIqNqbRK877YCxN2Q==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧33209 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "134.209.177.114",
+      "server_port": 22277,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "YVSX9nL1XNZUoIXL8PPkaYiV7sRXiKKiy2EwbRoCUoA=:LunFfjjIR2gF8aXIDNdWs2WQbg1rd6euOJ4a/jME05I=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@SariinaVpn🌟",
       "server": "plus.leoshop.pw",
       "server_port": 18478,

@@ -2,6 +2,32 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇮🇷41825 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "min.ti7.com.tr",
+      "server_port": 1080,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "EPhGIkDVmrsuCCACOPu43w==:O7X5LcGypg/DBgiKhN1N5g==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷41800 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "node2.helishot.info",
+      "server_port": 443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "Pe0svWa2ly+rN0zp91vnZg==:Yg3cNuHj9BDiE3KBHjgpkA==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "🇮🇷41745 | ⚡️Telegram = t.me/SOSkeyNET",
       "server": "5.160.47.211",
       "server_port": 8443,

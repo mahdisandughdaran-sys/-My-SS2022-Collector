@@ -1,3 +1,5 @@
 proxies:
+  - {"name": "🇮🇷41825 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "min.ti7.com.tr", "port": 1080, "cipher": "2022-blake3-aes-128-gcm", "password": "EPhGIkDVmrsuCCACOPu43w==:O7X5LcGypg/DBgiKhN1N5g==", "udp": true}
+  - {"name": "🇮🇷41800 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "node2.helishot.info", "port": 443, "cipher": "2022-blake3-aes-128-gcm", "password": "Pe0svWa2ly+rN0zp91vnZg==:Yg3cNuHj9BDiE3KBHjgpkA==", "udp": true}
   - {"name": "🇮🇷41745 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "5.160.47.211", "port": 8443, "cipher": "2022-blake3-aes-128-gcm", "password": "mzIpfHoVH/Xrnk3cuSb9aw==:BnAH3V0LNH4ufyymGumTkQ==", "udp": true}
   - {"name": "مخصوص اینستا🥰😍", "type": "ss", "server": "45.76.32.242", "port": 50868, "cipher": "2022-blake3-aes-256-gcm", "password": "3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=", "udp": true}

@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "مخصوص اینستا🥰😍",
-      "server": "45.76.32.242",
-      "server_port": 50868,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=",
+      "tag": "🇮🇷41745 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "5.160.47.211",
+      "server_port": 8443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "mzIpfHoVH/Xrnk3cuSb9aw==:BnAH3V0LNH4ufyymGumTkQ==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -15,11 +15,11 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "kurdconfig",
-      "server": "sg-01.jjsdns.com",
-      "server_port": 19822,
+      "tag": "مخصوص اینستا🥰😍",
+      "server": "45.76.32.242",
+      "server_port": 50868,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "MDVmMDZmMjcxMGVhZThlYmVkZGEwOThiNmJjYTYzMzc=:YTlkNzI3Y2QtMzMwYi00ZWRkLTg5MTEtN2MyMjRkZjY=",
+      "password": "3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

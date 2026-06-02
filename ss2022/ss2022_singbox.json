@@ -2,76 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱 ssT10 @kurdconfig",
-      "server": "cdn10.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇳🇱 ssT @kurdconfig",
-      "server": "ss.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪 ssT3 @kurdconfig",
-      "server": "cdn3.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:TEhSZW93Jh8/dgoHNIEvPw==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇳🇱 ssNV3 @kurdconfig",
-      "server": "dl3.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:t4jeOEEK1SYYsTagrGj0WQ==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "مخصوص اینستا🥰😍",
       "server": "45.76.32.242",
       "server_port": 50868,
       "method": "2022-blake3-aes-256-gcm",
       "password": "3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪43941 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "46.225.30.16",
-      "server_port": 49534,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

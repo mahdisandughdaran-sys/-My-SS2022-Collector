@@ -2,6 +2,58 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇳🇱 ssT10 @kurdconfig",
+      "server": "cdn10.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ssT @kurdconfig",
+      "server": "ss.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪 ssT3 @kurdconfig",
+      "server": "cdn3.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:TEhSZW93Jh8/dgoHNIEvPw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 ssNV3 @kurdconfig",
+      "server": "dl3.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:t4jeOEEK1SYYsTagrGj0WQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "مخصوص اینستا🥰😍",
       "server": "45.76.32.242",
       "server_port": 50868,

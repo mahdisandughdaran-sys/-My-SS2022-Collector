@@ -1,2 +1,6 @@
 proxies:
+  - {"name": "🇳🇱 ssT10 @kurdconfig", "type": "ss", "server": "cdn10.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==", "udp": true}
+  - {"name": "🇳🇱 ssT @kurdconfig", "type": "ss", "server": "ss.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:DW6JBIRgO2qATzyjOUJmUQ==", "udp": true}
+  - {"name": "🇩🇪 ssT3 @kurdconfig", "type": "ss", "server": "cdn3.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:TEhSZW93Jh8/dgoHNIEvPw==", "udp": true}
+  - {"name": "🇳🇱 ssNV3 @kurdconfig", "type": "ss", "server": "dl3.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:t4jeOEEK1SYYsTagrGj0WQ==", "udp": true}
   - {"name": "مخصوص اینستا🥰😍", "type": "ss", "server": "45.76.32.242", "port": 50868, "cipher": "2022-blake3-aes-256-gcm", "password": "3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=", "udp": true}

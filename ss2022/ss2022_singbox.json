@@ -2,33 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷45455 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "coin1.snllshop.ir",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "+lgRp8xvZI6JfkXuJL1YdQ==:78blMq7UK+gp3SL6aKBslw==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷45450 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "coin1.snllshop.ir",
-      "server_port": 2096,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bpL0/Xxi0YK/5WAd3kiG0A==:78blMq7UK+gp3SL6aKBslw==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪45539 | ⚡️Telegram = t.me/SOSkeyNET",
+      "tag": "filembad-1",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
@@ -41,7 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": ">>@v2nodes::DE",
+      "tag": "@filembad",
       "server": "46.225.30.16",
       "server_port": 49534,
       "method": "2022-blake3-aes-256-gcm",

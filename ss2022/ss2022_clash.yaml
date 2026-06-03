@@ -1,3 +1,5 @@
 proxies:
   - {"name": "🇮🇷45455 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "coin1.snllshop.ir", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "+lgRp8xvZI6JfkXuJL1YdQ==:78blMq7UK+gp3SL6aKBslw==", "udp": true}
   - {"name": "🇮🇷45450 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "coin1.snllshop.ir", "port": 2096, "cipher": "2022-blake3-aes-128-gcm", "password": "bpL0/Xxi0YK/5WAd3kiG0A==:78blMq7UK+gp3SL6aKBslw==", "udp": true}
+  - {"name": "🇩🇪45539 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
+  - {"name": ">>@v2nodes::DE", "type": "ss", "server": "46.225.30.16", "port": 49534, "cipher": "2022-blake3-aes-256-gcm", "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=", "udp": true}

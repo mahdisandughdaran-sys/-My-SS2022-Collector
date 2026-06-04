@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪47357 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "82.115.16.8",
-      "server_port": 42589,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "WZKX+kCL0evDoOI3Oj1Q25IAyYOzbFINNfUEF7AvPyc=:fFGtaXp9rmy389X96jgfe1DB+swGIDwcQkyV00BqZ7c=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "🇺🇸US-🚀@V2Ray_Hub1200",
       "server": "47.254.123.246",
       "server_port": 10003,
@@ -33,6 +20,19 @@
       "server_port": 10003,
       "method": "2022-blake3-aes-256-gcm",
       "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:9IynuqWASx06teNBZrWDjB/TqtnrAUoI0XS9yspy+yU=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸47561 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "47.254.123.246",
+      "server_port": 10003,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:DlJqNj4ELVcdhwoRemTX++H2wdW7/yiEj5b1n7XVVK4=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

@@ -1,7 +1,7 @@
 proxies:
-  - {"name": "🇩🇪47357 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "82.115.16.8", "port": 42589, "cipher": "2022-blake3-aes-256-gcm", "password": "WZKX+kCL0evDoOI3Oj1Q25IAyYOzbFINNfUEF7AvPyc=:fFGtaXp9rmy389X96jgfe1DB+swGIDwcQkyV00BqZ7c=", "udp": true}
   - {"name": "🇺🇸US-🚀@V2Ray_Hub1200", "type": "ss", "server": "47.254.123.246", "port": 10003, "cipher": "2022-blake3-aes-256-gcm", "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:5OTptHPUnBNc/KOM+AAWzLdPEQxjOrYPkySQGiL79Ro=", "udp": true}
   - {"name": "🇺🇸US-🚀@V2Ray_Hub1200", "type": "ss", "server": "47.254.123.246", "port": 10003, "cipher": "2022-blake3-aes-256-gcm", "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:9IynuqWASx06teNBZrWDjB/TqtnrAUoI0XS9yspy+yU=", "udp": true}
+  - {"name": "🇺🇸47561 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "47.254.123.246", "port": 10003, "cipher": "2022-blake3-aes-256-gcm", "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:DlJqNj4ELVcdhwoRemTX++H2wdW7/yiEj5b1n7XVVK4=", "udp": true}
   - {"name": "🇺🇸US-🚀@V2Ray_Hub1200", "type": "ss", "server": "47.254.123.246", "port": 10003, "cipher": "2022-blake3-aes-256-gcm", "password": "YyUhfrXxoQ95oiQxLONNWwvzvvQoQuXfoJDobJ8myek=:puGY6GyFxtkg5AUmBKgajLcSpsJFEL2ivjzf/jC5e+A=", "udp": true}
   - {"name": "@hi_proxy_iran :👈کانال تلگرام", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": ">>@v2nodes::DE", "type": "ss", "server": "46.225.30.16", "port": 49534, "cipher": "2022-blake3-aes-256-gcm", "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=", "udp": true}

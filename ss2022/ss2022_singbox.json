@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
-      "server": "10G.royalfast.top",
-      "server_port": 2599,
+      "tag": "рҹҮ®рҹҮ·50351 | вҡЎпёҸTelegram = t.me/SOSkeyNET",
+      "server": "91.246.31.226",
+      "server_port": 443,
       "method": "2022-blake3-aes-128-gcm",
-      "password": "guPC/v9kkjwHlas8N4GoRg==:Jgj3OP32LtP6l76crDUK0Z9eEb3hQ1nK+5A3qjx42nM=",
+      "password": "MaH6nu/jkZmYuskVJWzGJQ==:F96OgJfA3KvcplHS091Y/A==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -15,20 +15,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "10G.royalfast.top",
-      "server_port": 2599,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "guPC/v9kkjwHlas8N4GoRg==:xvm/qciM6x+j8Gw91RlKshpnnCtgraLLgwhTHYI7s9o=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@HiByeVPNN ❤️‍🔥🧧🔥 80",
+      "tag": "@HiByeVPNN вқӨпёҸвҖҚрҹ”Ҙрҹ§§рҹ”Ҙ 80",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",

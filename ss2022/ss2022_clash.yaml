@@ -1,3 +1,5 @@
 proxies:
+  - {"name": "@filembad", "type": "ss", "server": "10G.royalfast.top", "port": 2599, "cipher": "2022-blake3-aes-128-gcm", "password": "guPC/v9kkjwHlas8N4GoRg==:Jgj3OP32LtP6l76crDUK0Z9eEb3hQ1nK+5A3qjx42nM=", "udp": true}
+  - {"name": "🇮🇷IR-🚀@VPNine1", "type": "ss", "server": "10G.royalfast.top", "port": 2599, "cipher": "2022-blake3-aes-128-gcm", "password": "guPC/v9kkjwHlas8N4GoRg==:xvm/qciM6x+j8Gw91RlKshpnnCtgraLLgwhTHYI7s9o=", "udp": true}
   - {"name": "@HiByeVPNN ❤️‍🔥🧧🔥 80", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": ">>@v2nodes::DE", "type": "ss", "server": "46.225.30.16", "port": 49534, "cipher": "2022-blake3-aes-256-gcm", "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=", "udp": true}

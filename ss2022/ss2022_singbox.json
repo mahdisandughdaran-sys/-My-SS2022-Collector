@@ -2,45 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇳🇱NL-🚀@VPNine1",
-      "server": "lolo.iranwwwweb.com",
-      "server_port": 3030,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "okok.abrkurd.com",
-      "server_port": 3030,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "yoyo.shopkamk.xyz",
-      "server_port": 3030,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@HiByeVPNN ❤️‍🔥🧧🔥 80",
       "server": "49.13.3.249",
       "server_port": 23997,

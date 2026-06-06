@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷51232 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "dl3.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:GlGZNEATIxFIGZYlmuuRow==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@HiByeVPNN ❤️‍🔥🧧🔥 80",
       "server": "49.13.3.249",
       "server_port": 23997,

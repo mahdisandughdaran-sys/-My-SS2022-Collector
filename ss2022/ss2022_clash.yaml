@@ -1,3 +1,6 @@
 proxies:
+  - {"name": "🇳🇱NL-🚀@VPNine1", "type": "ss", "server": "lolo.iranwwwweb.com", "port": 3030, "cipher": "2022-blake3-aes-256-gcm", "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=", "udp": true}
+  - {"name": "🇮🇷IR-🚀@VPNine1", "type": "ss", "server": "okok.abrkurd.com", "port": 3030, "cipher": "2022-blake3-aes-256-gcm", "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=", "udp": true}
+  - {"name": "🇮🇷IR-🚀@VPNine1", "type": "ss", "server": "yoyo.shopkamk.xyz", "port": 3030, "cipher": "2022-blake3-aes-256-gcm", "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:lfIru+DrgfYk1q0G6xKPdKGHDoVfHRseKUCJgY6dGa8=", "udp": true}
   - {"name": "@HiByeVPNN ❤️‍🔥🧧🔥 80", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": ">>@v2nodes::DE", "type": "ss", "server": "46.225.30.16", "port": 49534, "cipher": "2022-blake3-aes-256-gcm", "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=", "udp": true}

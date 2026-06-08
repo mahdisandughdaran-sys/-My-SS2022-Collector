@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@Ap_Ir6",
-      "server": "me.api50951.ir",
-      "server_port": 443,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "5yZLefw8Ntqw/58irTW2OpMsNuyJjR61BuRe2gCoxjo=:KzauSyufJJP5ZOi7qV9cbQxYyBK4EX2bZEIsYmLPCks=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "V2RFA",
       "server": "37.32.8.201",
       "server_port": 443,

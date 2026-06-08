@@ -1,6 +1,5 @@
 proxies:
-  - {"name": "🇺🇸55674 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "155.117.87.123", "port": 10378, "cipher": "2022-blake3-aes-128-gcm", "password": "MjAyNjJrNXN6WWtHQVZPeA==:NERFOUQ1QUUtRkQwQS00Ng==", "udp": true}
-  - {"name": "🇮🇷55841 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "94.139.188.42", "port": 4242, "cipher": "2022-blake3-aes-256-gcm", "password": "Bc1ADRrnPW4AKPxQLetlscjXnXDtZDiq+sdnfaWbL0o=:P1QUO4HP13j/x0V5J5WQGkQuwQmGI8Fh9qxykg151jo=", "udp": true}
+  - {"name": "@Ap_Ir6", "type": "ss", "server": "me.api50951.ir", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "5yZLefw8Ntqw/58irTW2OpMsNuyJjR61BuRe2gCoxjo=:KzauSyufJJP5ZOi7qV9cbQxYyBK4EX2bZEIsYmLPCks=", "udp": true}
   - {"name": "V2RFA", "type": "ss", "server": "37.32.8.201", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "UZQaN/1XknVwagTUF6C+tW8CxgZ4xdpRB9u32bCW+Xg=:ZQaajPyQWVzmNB/gTZfFdE5IDuoz3Z7zRAsxtBTq4F4=", "udp": true}
   - {"name": "@HiByeVPNN ❤️‍🔥🧧🔥 80", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": ">>@v2nodes::DE", "type": "ss", "server": "46.225.30.16", "port": 49534, "cipher": "2022-blake3-aes-256-gcm", "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=", "udp": true}

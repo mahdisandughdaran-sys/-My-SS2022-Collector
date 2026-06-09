@@ -2,11 +2,37 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "V2RFA",
-      "server": "37.32.8.201",
-      "server_port": 443,
+      "tag": "@VPsave",
+      "server": "91.107.191.12",
+      "server_port": 54471,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "UZQaN/1XknVwagTUF6C+tW8CxgZ4xdpRB9u32bCW+Xg=:ZQaajPyQWVzmNB/gTZfFdE5IDuoz3Z7zRAsxtBTq4F4=",
+      "password": "DT0mi59V4a9Se9EhyonyuptVfIe3oJpIrzD/fa8W17U=:SCf6cuqPneaNwCOKzYkOnETfih1RCUc6kRio2hPyDng=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "3 تلگرام : mtmvpn",
+      "server": "fonixorg.fon1xemergency.top",
+      "server_port": 48788,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "SnmVMHHx3lDbiPAYr/dA+tMDFPpqRFhGgHWi/uSq7v0=:DKAPWuMM7KSlFj1vtZi2gest0XQm0r6ytJKojMByIiQ=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "11 تلگرام : mtmvpn",
+      "server": "37.32.8.201",
+      "server_port": 8080,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "dxzSnG5le2y16bNqdyL2Hj2b9Qjptq2Ust7li7mLR6Q=:GZs23OkRjsO4i11hMhke9I48yENOx6VVuL23GKRXTi0=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

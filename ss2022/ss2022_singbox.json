@@ -15,7 +15,20 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@VPsave",
+      "tag": "@Ap_Ir6",
+      "server": "yoyo.shopkamk.xyz",
+      "server_port": 3030,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:qVDzlrMpIY97qQ27zCBCfVB3/UYZxKkpYWRrOSbHyoU=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "6🎖@kakajan🕶",
       "server": "91.107.191.12",
       "server_port": 54471,
       "method": "2022-blake3-aes-256-gcm",
@@ -67,24 +80,11 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷 IR | SS | @v2ray_free_conf #1",
-      "server": "okok.abrkurd.com",
-      "server_port": 3030,
+      "tag": "🇫🇷60967 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "n.acp.us.ci",
+      "server_port": 2083,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:qVDzlrMpIY97qQ27zCBCfVB3/UYZxKkpYWRrOSbHyoU=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": ">>@v2nodes::DE",
-      "server": "46.225.30.16",
-      "server_port": 49534,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM/m31aG1PYM=",
+      "password": "o8n//HJhE0Iol6+DdH2tc9Yatbuc/1NJ5HjmaKgYy1U=:eZYuSLV7inN6ASzgvsvFpJw5HhnG2W2u4a2kFd3urJg=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

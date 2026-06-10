@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇺🇸US-🚀@VPNine1",
+      "server": "155.117.87.123",
+      "server_port": 10378,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "MjAyNjJrNXN6WWtHQVZPeA==:QzVGQzRFRDMtMjVBMC00QQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
       "server": "dl3.p31download.info",
       "server_port": 2095,
@@ -15,20 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@Ap_Ir6",
-      "server": "yoyo.shopkamk.xyz",
-      "server_port": 3030,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:qVDzlrMpIY97qQ27zCBCfVB3/UYZxKkpYWRrOSbHyoU=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "6🎖@kakajan🕶",
+      "tag": "@VPsave",
       "server": "91.107.191.12",
       "server_port": 54471,
       "method": "2022-blake3-aes-256-gcm",
@@ -72,19 +72,6 @@
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇫🇷60967 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "n.acp.us.ci",
-      "server_port": 2083,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "o8n//HJhE0Iol6+DdH2tc9Yatbuc/1NJ5HjmaKgYy1U=:eZYuSLV7inN6ASzgvsvFpJw5HhnG2W2u4a2kFd3urJg=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

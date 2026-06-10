@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
+      "server": "dl3.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:GlGZNEATIxFIGZYlmuuRow==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@VPsave",
       "server": "91.107.191.12",
       "server_port": 54471,
@@ -46,6 +59,19 @@
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷 IR | SS | @v2ray_free_conf #1",
+      "server": "okok.abrkurd.com",
+      "server_port": 3030,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "3F4W6f27iIIUaD91u3jGI16uL4sudZ1uykuhzFOmlAc=:qVDzlrMpIY97qQ27zCBCfVB3/UYZxKkpYWRrOSbHyoU=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

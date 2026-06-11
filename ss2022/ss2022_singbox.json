@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "برای اتصال دائمی جوین شو🗾 prrofile_purple@",
-      "server": "dl3.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:GlGZNEATIxFIGZYlmuuRow==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@VPsave",
       "server": "91.107.191.12",
       "server_port": 54471,
@@ -41,19 +28,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷63263 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "am.oninos.ir",
-      "server_port": 8080,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "PGD35d6H7HWiHCvuYCdXqUM9pYHs7lHwLoh+O+XtKXA=:eDbzfMRYHSisXPLV3KQcpbGmv0SVsubjfl8IWQT+Y60=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "11 تلگرام : mtmvpn",
       "server": "37.32.8.201",
       "server_port": 8080,
@@ -72,6 +46,19 @@
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷 IR | SS | @prrofile_purple #1",
+      "server": "dl3.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:GlGZNEATIxFIGZYlmuuRow==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

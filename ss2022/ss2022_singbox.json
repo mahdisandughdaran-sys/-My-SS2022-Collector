@@ -2,37 +2,24 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "3 تلگرام : mtmvpn",
-      "server": "fonixorg.fon1xemergency.top",
-      "server_port": 48788,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "SnmVMHHx3lDbiPAYr/dA+tMDFPpqRFhGgHWi/uSq7v0=:DKAPWuMM7KSlFj1vtZi2gest0XQm0r6ytJKojMByIiQ=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "11 تلگرام : mtmvpn",
-      "server": "37.32.8.201",
-      "server_port": 8080,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "dxzSnG5le2y16bNqdyL2Hj2b9Qjptq2Ust7li7mLR6Q=:GZs23OkRjsO4i11hMhke9I48yENOx6VVuL23GKRXTi0=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@V2raySup0 | 🚀",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷67901 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "shop.webchipro2.ir",
+      "server_port": 22003,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "i3Z1iYa3AgYRTiLQHXFo47lkcxZvKbTbFMmzU4UNwLo=:o2cAF4pGgjePZ0kktVLmON9il96HNkHDmcz8jEg58eI=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

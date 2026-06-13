@@ -1,5 +1,4 @@
 proxies:
-  - {"name": "3 تلگرام : mtmvpn", "type": "ss", "server": "fonixorg.fon1xemergency.top", "port": 48788, "cipher": "2022-blake3-aes-256-gcm", "password": "SnmVMHHx3lDbiPAYr/dA+tMDFPpqRFhGgHWi/uSq7v0=:DKAPWuMM7KSlFj1vtZi2gest0XQm0r6ytJKojMByIiQ=", "udp": true}
-  - {"name": "11 تلگرام : mtmvpn", "type": "ss", "server": "37.32.8.201", "port": 8080, "cipher": "2022-blake3-aes-256-gcm", "password": "dxzSnG5le2y16bNqdyL2Hj2b9Qjptq2Ust7li7mLR6Q=:GZs23OkRjsO4i11hMhke9I48yENOx6VVuL23GKRXTi0=", "udp": true}
   - {"name": "@V2raySup0 | 🚀", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
+  - {"name": "🇮🇷67901 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "shop.webchipro2.ir", "port": 22003, "cipher": "2022-blake3-aes-256-gcm", "password": "i3Z1iYa3AgYRTiLQHXFo47lkcxZvKbTbFMmzU4UNwLo=:o2cAF4pGgjePZ0kktVLmON9il96HNkHDmcz8jEg58eI=", "udp": true}
   - {"name": ">>@v2nodes::US", "type": "ss", "server": "192.3.196.182", "port": 8416, "cipher": "2022-blake3-aes-128-gcm", "password": "Z7+ihCahl4v8UUYCgPv93w==", "udp": true}

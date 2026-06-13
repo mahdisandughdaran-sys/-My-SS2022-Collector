@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇰🇷68462 | ⚡️Telegram = t.me/SOSkeyNET",
+      "server": "47.80.24.245",
+      "server_port": 8127,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "3UebYm8HW8DU7iMs1O0pew==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@V2raySup0 | 🚀",
       "server": "49.13.3.249",
       "server_port": 23997,
@@ -15,7 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷67901 | ⚡️Telegram = t.me/SOSkeyNET",
+      "tag": "🇮🇷 IR | SS | @v2ray_free_conf #1",
       "server": "shop.webchipro2.ir",
       "server_port": 22003,
       "method": "2022-blake3-aes-256-gcm",

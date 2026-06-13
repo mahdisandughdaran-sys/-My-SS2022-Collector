@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@VPsave",
-      "server": "91.107.191.12",
-      "server_port": 54471,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "DT0mi59V4a9Se9EhyonyuptVfIe3oJpIrzD/fa8W17U=:SCf6cuqPneaNwCOKzYkOnETfih1RCUc6kRio2hPyDng=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "3 تلگرام : mtmvpn",
       "server": "fonixorg.fon1xemergency.top",
       "server_port": 48788,

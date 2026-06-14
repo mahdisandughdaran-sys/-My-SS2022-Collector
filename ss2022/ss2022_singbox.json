@@ -2,37 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇰🇷68462 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "47.80.24.245",
-      "server_port": 8127,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "3UebYm8HW8DU7iMs1O0pew==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@V2raySup0 | 🚀",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷 IR | SS | @v2ray_free_conf #1",
-      "server": "shop.webchipro2.ir",
-      "server_port": 22003,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "i3Z1iYa3AgYRTiLQHXFo47lkcxZvKbTbFMmzU4UNwLo=:o2cAF4pGgjePZ0kktVLmON9il96HNkHDmcz8jEg58eI=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

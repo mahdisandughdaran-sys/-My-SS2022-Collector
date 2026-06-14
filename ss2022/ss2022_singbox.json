@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
-      "server": "192.3.196.182",
-      "server_port": 8416,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "Z7+ihCahl4v8UUYCgPv93w==",
+      "tag": "@V2raySup0 | 🚀",
+      "server": "49.13.3.249",
+      "server_port": 23997,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -15,11 +15,11 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@V2raySup0 | 🚀",
-      "server": "49.13.3.249",
-      "server_port": 23997,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "tag": ">>@v2nodes::US",
+      "server": "192.3.196.182",
+      "server_port": 8416,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "Z7+ihCahl4v8UUYCgPv93w==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

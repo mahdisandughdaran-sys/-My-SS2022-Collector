@@ -1,3 +1,5 @@
 proxies:
+  - {"name": "🇮🇷74620 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "coco3.farajet.net", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "+lgRp8xvZI6JfkXuJL1YdQ==:HqTKRERZzB6nFR2o11y2mw==", "udp": true}
+  - {"name": "🇮🇷74618 | ⚡️Telegram = t.me/SOSkeyNET", "type": "ss", "server": "coco1.farajet.net", "port": 2096, "cipher": "2022-blake3-aes-128-gcm", "password": "bpL0/Xxi0YK/5WAd3kiG0A==:HqTKRERZzB6nFR2o11y2mw==", "udp": true}
   - {"name": "V2RFA", "type": "ss", "server": "vip.subnet25.site", "port": 51824, "cipher": "2022-blake3-aes-256-gcm", "password": "4pTAp8EVHvHezd8OgpFnSjfjam8U2/kL1ldfY+t23p0=:Fjl0dDe0lFEaTlyFmfGQ7CDZ4UXoyFnDND3YNlomGj4=", "udp": true}
-  - {"name": "@V2raySup0 | рЯЪА", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
+  - {"name": "@V2raySup0 | 🚀", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}

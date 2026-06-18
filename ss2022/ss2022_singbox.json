@@ -2,20 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪76347 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "89.167.82.102",
-      "server_port": 48461,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "8Df7e+hKHl83MjVEMEvJjbFinOLjizCxVNb+ZuQxzyA=:lhPD/pB5dm+Y3tIA1N5geYzNHMBclmdc1lTWSRHbkv4=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪76359 | ⚡️Telegram = t.me/SOSkeyNET",
+      "tag": "filembad-1",
       "server": "89.167.82.102",
       "server_port": 48461,
       "method": "2022-blake3-aes-256-gcm",
@@ -33,32 +20,6 @@
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪76349 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "89.167.82.102",
-      "server_port": 443,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "nnZb233wb8h9cZdlwpHwdIt4GTAlbK7DQJOBdOew3S0=:lhPD/pB5dm+Y3tIA1N5geYzNHMBclmdc1lTWSRHbkv4=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪76356 | ⚡️Telegram = t.me/SOSkeyNET",
-      "server": "89.167.82.102",
-      "server_port": 443,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "nnZb233wb8h9cZdlwpHwdIt4GTAlbK7DQJOBdOew3S0=:nhqAnGSvb5sNjWHvSNpishGMFK2vZnD+whcA1P7erYs=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

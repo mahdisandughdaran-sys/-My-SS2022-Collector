@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "filembad-1",
-      "server": "89.167.82.102",
-      "server_port": 48461,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "8Df7e+hKHl83MjVEMEvJjbFinOLjizCxVNb+ZuQxzyA=:nhqAnGSvb5sNjWHvSNpishGMFK2vZnD+whcA1P7erYs=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@V2raySup0 | 🚀",
       "server": "49.13.3.249",
       "server_port": 23997,

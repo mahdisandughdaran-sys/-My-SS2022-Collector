@@ -2,11 +2,37 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@V2raySup0 | 🚀",
+      "tag": "🇩🇪DE-🚀@VPNine1",
+      "server": "89.167.82.102",
+      "server_port": 48461,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "8Df7e+hKHl83MjVEMEvJjbFinOLjizCxVNb+ZuQxzyA=:lY20q4HUzbsIlCbHANv/1aV/K8P8ZaC3Ko1/i+/QV38=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@routel1+🦋",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪DE-🚀@VPNine1",
+      "server": "89.167.82.102",
+      "server_port": 443,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "nnZb233wb8h9cZdlwpHwdIt4GTAlbK7DQJOBdOew3S0=:lY20q4HUzbsIlCbHANv/1aV/K8P8ZaC3Ko1/i+/QV38=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

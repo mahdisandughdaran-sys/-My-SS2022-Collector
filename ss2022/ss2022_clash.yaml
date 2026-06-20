@@ -1,3 +1,7 @@
 proxies:
+  - {"name": "🇩🇪DE-🚀@VPNine1", "type": "ss", "server": "89.167.82.102", "port": 48461, "cipher": "2022-blake3-aes-256-gcm", "password": "8Df7e+hKHl83MjVEMEvJjbFinOLjizCxVNb+ZuQxzyA=:+/rFID9gXZ/jBDCsT6V+dfgc4m5zLdnXYX6BWVHQaI0=", "udp": true}
+  - {"name": "🇩🇪DE-🚀@VPNine1", "type": "ss", "server": "89.167.82.102", "port": 48461, "cipher": "2022-blake3-aes-256-gcm", "password": "8Df7e+hKHl83MjVEMEvJjbFinOLjizCxVNb+ZuQxzyA=:9CrA8NokUfh4ND6tREVkDIhp8svpcMyZyY8ykw1xa+k=", "udp": true}
   - {"name": "@routel1+🦋", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
+  - {"name": "🇩🇪DE-🚀@VPNine1", "type": "ss", "server": "89.167.82.102", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "nnZb233wb8h9cZdlwpHwdIt4GTAlbK7DQJOBdOew3S0=:+/rFID9gXZ/jBDCsT6V+dfgc4m5zLdnXYX6BWVHQaI0=", "udp": true}
+  - {"name": "filembad-4", "type": "ss", "server": "89.167.82.102", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "nnZb233wb8h9cZdlwpHwdIt4GTAlbK7DQJOBdOew3S0=:9CrA8NokUfh4ND6tREVkDIhp8svpcMyZyY8ykw1xa+k=", "udp": true}
   - {"name": "https://t.me/v2rayNplus |🇮🇷🇩🇪", "type": "ss", "server": "5.145.113.44", "port": 2030, "cipher": "2022-blake3-aes-256-gcm", "password": "ymUEIwRL3oUm0/ORHaddvQu5iKUqmh71Vh9KPkL19mU=:yV/F0f6tgn/14pgT3J3gXuUweognfR4bHIiIb2dglms=", "udp": true}

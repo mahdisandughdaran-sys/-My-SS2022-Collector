@@ -1,4 +1,3 @@
 proxies:
-  - {"name": "🇩🇪DE-🚀@VPNine1", "type": "ss", "server": "realxvpn.online", "port": 44302, "cipher": "2022-blake3-aes-256-gcm", "password": "13Fxhb88QHxcAHdnpVFWzecLfkJuPDihMJhz5MCMRiY=:6dsw8dJ1ggbNucotL+HC4/S4u2B2hHzCgkJfGosclHk=", "udp": true}
   - {"name": "@routel1+🦋", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": "https://t.me/v2rayNplus |🇮🇷🇩🇪", "type": "ss", "server": "5.145.113.44", "port": 2030, "cipher": "2022-blake3-aes-256-gcm", "password": "ymUEIwRL3oUm0/ORHaddvQu5iKUqmh71Vh9KPkL19mU=:yV/F0f6tgn/14pgT3J3gXuUweognfR4bHIiIb2dglms=", "udp": true}

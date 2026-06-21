@@ -2,6 +2,19 @@
   "outbounds": [
     {
       "type": "shadowsocks",
+      "tag": "🇩🇪DE-🚀@VPNine1",
+      "server": "realxvpn.online",
+      "server_port": 44302,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "13Fxhb88QHxcAHdnpVFWzecLfkJuPDihMJhz5MCMRiY=:6dsw8dJ1ggbNucotL+HC4/S4u2B2hHzCgkJfGosclHk=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@routel1+🦋",
       "server": "49.13.3.249",
       "server_port": 23997,

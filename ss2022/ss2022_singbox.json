@@ -28,7 +28,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪@V2RayyNGvpn🇩🇪",
+      "tag": "🇩🇪@V2RayyNGvpn",
       "server": "169.40.32.177",
       "server_port": 1194,
       "method": "2022-blake3-aes-256-gcm",

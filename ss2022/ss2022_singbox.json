@@ -28,6 +28,19 @@
     },
     {
       "type": "shadowsocks",
+      "tag": "🇩🇪@V2RayyNGvpn🇩🇪",
+      "server": "169.40.32.177",
+      "server_port": 1194,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "uyIqu8vJF7RPyEL7UJkqBQkvRfhha8WYe5VWylUKWxQ=:HhkFc9fG66IPW5QlznGtk9ykIhHpnId6mbeoxkk/9kk=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@configprxy",
       "server": "5.145.113.44",
       "server_port": 2030,

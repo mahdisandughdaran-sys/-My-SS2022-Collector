@@ -15,6 +15,19 @@
     },
     {
       "type": "shadowsocks",
+      "tag": "🇩🇪DE-🚀@VPNine1",
+      "server": "82.158.120.168",
+      "server_port": 1,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "RKx0JRbgPMTrNbCEIlFjyQCw/rSbvaaEK3zwNSAIj5s=:wLZw+z+Hohamw8Nd7KnSAoWS6tmiRQ8flSSF8TQpOYs=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
       "tag": "@routel1+🦋",
       "server": "49.13.3.249",
       "server_port": 23997,
@@ -28,7 +41,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪@V2RayyNGvpn",
+      "tag": "@meliproxyy",
       "server": "169.40.32.177",
       "server_port": 1194,
       "method": "2022-blake3-aes-256-gcm",

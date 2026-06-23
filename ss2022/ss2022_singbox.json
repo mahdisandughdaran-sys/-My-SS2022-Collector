@@ -2,8 +2,8 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "@Config0plus 🇫🇮تلگرام",
-      "server": "92.242.196.168",
+      "tag": "irconfiig",
+      "server": "92.242.196.174",
       "server_port": 443,
       "method": "2022-blake3-aes-128-gcm",
       "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
@@ -20,6 +20,32 @@
       "server_port": 2095,
       "method": "2022-blake3-aes-128-gcm",
       "password": "bM7oNtOWU6N4CgenbB+W7g==:yvyB4D/9+ulLXfsc5gaNHA==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇷IR-🚀@VPNine1",
+      "server": "94.139.179.9",
+      "server_port": 23407,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "VV1ywElr6TDIqap7oEBX0S0Q24nhwUsynXa7z7oiYnA=:ZpUUBCgWT3k6PriIFDccEs5RVRclJb9CL1LvF+yJTjY=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇹🇷TR-🚀@VPNine1",
+      "server": "46.31.76.37",
+      "server_port": 4004,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "bIp0spSuoM1jadkc20X5GBw1/xqE+tT32rxyQCRTdks=:Huf5VbS7uzTylCYqhqINu0cHsXe38LVGLEZ1/5jj/60=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -54,7 +80,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@configprxy",
+      "tag": "https://t.me/v2rayNplus |🇮🇷🇩🇪",
       "server": "5.145.113.44",
       "server_port": 2030,
       "method": "2022-blake3-aes-256-gcm",

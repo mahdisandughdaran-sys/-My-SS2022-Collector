@@ -2,73 +2,8 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "92.242.196.166",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@Config0plus 🇫🇮تلگرام",
       "server": "92.242.196.168",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "92.242.196.172",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "92.242.196.174",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "92.242.196.176",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇮🇷IR-🚀@VPNine1",
-      "server": "92.242.196.178",
       "server_port": 443,
       "method": "2022-blake3-aes-128-gcm",
       "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",

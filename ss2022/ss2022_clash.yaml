@@ -1,6 +1,6 @@
 proxies:
-  - {"name": "🇫🇷 @DeltaVPN89", "type": "ss", "server": "cdn22.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:yvyB4D/9+ulLXfsc5gaNHA==", "udp": true}
-  - {"name": "🇩🇪DE-🚀@VPNine1", "type": "ss", "server": "82.158.120.168", "port": 1, "cipher": "2022-blake3-aes-256-gcm", "password": "RKx0JRbgPMTrNbCEIlFjyQCw/rSbvaaEK3zwNSAIj5s=:wLZw+z+Hohamw8Nd7KnSAoWS6tmiRQ8flSSF8TQpOYs=", "udp": true}
+  - {"name": "🇫🇷 @DeltaVPN89  100گیگ مخصوص کانال🔥🔥  @DeltaVPN89", "type": "ss", "server": "cdn22.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:yvyB4D/9+ulLXfsc5gaNHA==", "udp": true}
+  - {"name": "🇮🇷IR-🚀@VPNine1", "type": "ss", "server": "62.60.195.170", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "bRMuosocEucVYQO8iqjoZU1e0nQJiTuxKM31o6aX3s4=:iMyACqXGPOolTMEnDkWZU0SoVFxLtHHLlaae2+Ma1DQ=", "udp": true}
   - {"name": "@routel1+🦋", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": "@meliproxyy", "type": "ss", "server": "169.40.32.177", "port": 1194, "cipher": "2022-blake3-aes-256-gcm", "password": "uyIqu8vJF7RPyEL7UJkqBQkvRfhha8WYe5VWylUKWxQ=:HhkFc9fG66IPW5QlznGtk9ykIhHpnId6mbeoxkk/9kk=", "udp": true}
   - {"name": "@configprxy", "type": "ss", "server": "5.145.113.44", "port": 2030, "cipher": "2022-blake3-aes-256-gcm", "password": "ymUEIwRL3oUm0/ORHaddvQu5iKUqmh71Vh9KPkL19mU=:yV/F0f6tgn/14pgT3J3gXuUweognfR4bHIiIb2dglms=", "udp": true}

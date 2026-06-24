@@ -2,19 +2,6 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "irconfiig",
-      "server": "92.242.196.174",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "🇫🇷 @DeltaVPN89  100گیگ مخصوص کانال🔥🔥  @DeltaVPN89",
       "server": "cdn22.p31download.info",
       "server_port": 2095,

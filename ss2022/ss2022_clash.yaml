@@ -1,5 +1,4 @@
 proxies:
-  - {"name": "irconfiig", "type": "ss", "server": "92.242.196.174", "port": 443, "cipher": "2022-blake3-aes-128-gcm", "password": "MaH6nu/jkZmYuskVJWzGJQ==:LTfJUtHj8UFvGQVeClXa3w==", "udp": true}
   - {"name": "🇫🇷 @DeltaVPN89  100گیگ مخصوص کانال🔥🔥  @DeltaVPN89", "type": "ss", "server": "cdn22.p31download.info", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:yvyB4D/9+ulLXfsc5gaNHA==", "udp": true}
   - {"name": "@routel1+🦋", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": "telegram @mtmvpn", "type": "ss", "server": "169.40.32.177", "port": 1194, "cipher": "2022-blake3-aes-256-gcm", "password": "uyIqu8vJF7RPyEL7UJkqBQkvRfhha8WYe5VWylUKWxQ=:HhkFc9fG66IPW5QlznGtk9ykIhHpnId6mbeoxkk/9kk=", "udp": true}

@@ -38,19 +38,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "https://t.me/v2rayNplus |🇮🇷🇩🇪",
-      "server": "5.145.113.44",
-      "server_port": 2030,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "ymUEIwRL3oUm0/ORHaddvQu5iKUqmh71Vh9KPkL19mU=:yV/F0f6tgn/14pgT3J3gXuUweognfR4bHIiIb2dglms=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

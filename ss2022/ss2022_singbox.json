@@ -15,19 +15,6 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇫🇷 @DeltaVPN89  100گیگ مخصوص کانال🔥🔥  @DeltaVPN89",
-      "server": "cdn22.p31download.info",
-      "server_port": 2095,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "bM7oNtOWU6N4CgenbB+W7g==:yvyB4D/9+ulLXfsc5gaNHA==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
       "tag": "@routel1+🦋",
       "server": "49.13.3.249",
       "server_port": 23997,

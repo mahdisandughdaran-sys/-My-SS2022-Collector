@@ -1,6 +1,6 @@
 proxies:
   - {"name": "✅  @vistav2ray  👈👈کانال ما ✅", "type": "ss", "server": "193.151.128.97", "port": 443, "cipher": "2022-blake3-chacha20-poly1305", "password": "iFxltqscJVLJdHunZXPCmb4ToHN7LhkoeYwpQcU/Pbo=", "udp": true}
   - {"name": "@routel1+🦋", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
-  - {"name": "Channel id: @ShadowProxy66 🇫🇮", "type": "ss", "server": "65.109.218.60", "port": 8880, "cipher": "2022-blake3-aes-256-gcm", "password": "kCs8h0xuSNfNngL1SeDLTGRAEWewDnTj/aw3uMmEbSU=:ziHUqPyxJ/atRNkkCfXVAE/7H+Rm9hpbd/H2SXXDTN4=", "udp": true}
+  - {"name": "@meliproxyy", "type": "ss", "server": "65.109.218.60", "port": 8880, "cipher": "2022-blake3-aes-256-gcm", "password": "kCs8h0xuSNfNngL1SeDLTGRAEWewDnTj/aw3uMmEbSU=:ziHUqPyxJ/atRNkkCfXVAE/7H+Rm9hpbd/H2SXXDTN4=", "udp": true}
   - {"name": "@vmesskhodam", "type": "ss", "server": "out.soft34.ir", "port": 8877, "cipher": "2022-blake3-aes-256-gcm", "password": "hUGNKKlfhzY85TjjaLpx9ZNBES4tpF3+IPLrp+q1K7M=:U3Nuv0KCyQH4owYLuPhwC9ICS/Y4QVQP/JWVYnlzUPE=", "udp": true}
   - {"name": "telegram @mtmvpn", "type": "ss", "server": "169.40.32.177", "port": 1194, "cipher": "2022-blake3-aes-256-gcm", "password": "uyIqu8vJF7RPyEL7UJkqBQkvRfhha8WYe5VWylUKWxQ=:HhkFc9fG66IPW5QlznGtk9ykIhHpnId6mbeoxkk/9kk=", "udp": true}

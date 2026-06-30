@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "✅  @vistav2ray  👈👈کانال ما ✅",
+      "tag": "вң…  @vistav2ray  рҹ‘Ҳрҹ‘ҲЪ©Ш§ЩҶШ§Щ„ Щ…Ш§ вң…",
       "server": "193.151.128.97",
       "server_port": 443,
       "method": "2022-blake3-chacha20-poly1305",
@@ -15,7 +15,20 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@routel1+🦋",
+      "tag": "@filembad",
+      "server": "fi-1.tiptop-1.top",
+      "server_port": 443,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "YyO3pfhWyveU+LJmfKmLnw==:YxIH4InufR9JFmlzXf8ggw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "@routel1+рҹҰӢ",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",

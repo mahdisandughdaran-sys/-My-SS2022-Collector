@@ -2,7 +2,7 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "вң…  @vistav2ray  рҹ‘Ҳрҹ‘ҲЪ©Ш§ЩҶШ§Щ„ Щ…Ш§ вң…",
+      "tag": "EPODONIOS",
       "server": "193.151.128.97",
       "server_port": 443,
       "method": "2022-blake3-chacha20-poly1305",
@@ -15,11 +15,11 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@filembad",
-      "server": "fi-1.tiptop-1.top",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "YyO3pfhWyveU+LJmfKmLnw==:YxIH4InufR9JFmlzXf8ggw==",
+      "tag": "EPODONIOS",
+      "server": "37.202.229.21",
+      "server_port": 2020,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "DdxMsxFs1QMcwhPcy88cSZBtZZXTq3xYek3pi0RMYp0=:mfTV43DT1VjG/1a9IwRZeyjV0xKVmpp9scIuI2VT4WE=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -28,7 +28,20 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "@routel1+рҹҰӢ",
+      "tag": "EPODONIOS",
+      "server": "37.202.229.21",
+      "server_port": 2020,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "DdxMsxFs1QMcwhPcy88cSZBtZZXTq3xYek3pi0RMYp0=:q/AZYSYhEg3BslnF2nusibhuFDahKO8hI6kg/HkIJLg=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
@@ -41,7 +54,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "Mix--@V2rayAlpha--22",
+      "tag": "EPODONIOS",
       "server": "65.109.218.60",
       "server_port": 8880,
       "method": "2022-blake3-aes-256-gcm",
@@ -54,7 +67,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "telegram @mtmvpn",
+      "tag": "EPODONIOS",
       "server": "169.40.32.177",
       "server_port": 1194,
       "method": "2022-blake3-aes-256-gcm",

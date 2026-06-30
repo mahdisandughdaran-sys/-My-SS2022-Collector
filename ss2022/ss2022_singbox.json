@@ -16,32 +16,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "37.202.229.21",
-      "server_port": 2020,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "DdxMsxFs1QMcwhPcy88cSZBtZZXTq3xYek3pi0RMYp0=:mfTV43DT1VjG/1a9IwRZeyjV0xKVmpp9scIuI2VT4WE=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "37.202.229.21",
-      "server_port": 2020,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "DdxMsxFs1QMcwhPcy88cSZBtZZXTq3xYek3pi0RMYp0=:q/AZYSYhEg3BslnF2nusibhuFDahKO8hI6kg/HkIJLg=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",

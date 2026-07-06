@@ -16,6 +16,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "dl242.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:j+ddudexkbstk2A3x7+t6w==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "plusgum.lol",
       "server_port": 888,
       "method": "2022-blake3-aes-128-gcm",

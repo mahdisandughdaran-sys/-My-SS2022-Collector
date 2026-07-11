@@ -16,10 +16,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "122uk213sdfafda21.hardy2venom.ir",
-      "server_port": 20162,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "EZK0hjXWU01pQQRO5GfrW7emC99/SVzv69JXxe9h/oc=:Kvza2MqR3redHUQ+V2OKi4bLHJx/su19qNnQIFtSwtM=",
+      "server": "dl242.p31download.info",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -29,10 +29,36 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "65.109.208.236",
-      "server_port": 31910,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "KTR/p77k8graSD7VVJGQSd8K7FPXoyIFG9QSFz9jDY8=:Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=",
+      "server": "mashinbazi.pics",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "mashinbazi.xyz",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "plusgum.wiki",
+      "server_port": 2095,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

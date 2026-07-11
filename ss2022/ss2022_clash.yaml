@@ -4,6 +4,5 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "mashinbazi.pics", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "mashinbazi.xyz", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "plusgum.wiki", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "aplus.zarlexa.ir", "port": 50565, "cipher": "2022-blake3-aes-256-gcm", "password": "MXyLTr3KoSRqElGiQhm5sxsFNhDF32Zm4SkMLEiP0G0=:lyEnLz23H3XA3McWgq9gX09wwkvBC4MPtTf8FPBcWj0=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "vip7.ez0535.com", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "Y3d/U+Mnf/AFCWfEzhfkRdj1lyABKYAhtsSu0as4J7Y=:oDP3MkVxf8vLBY6xD+99RsR3055CcoNeUnmS4NulKbE=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}

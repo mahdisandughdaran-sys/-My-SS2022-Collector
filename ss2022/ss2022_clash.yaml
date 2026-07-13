@@ -8,3 +8,5 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "soskeynets.xyz", "port": 2095, "cipher": "2022-blake3-aes-128-gcm", "password": "bM7oNtOWU6N4CgenbB+W7g==:BG1ekULPM0tvJX0jZcIuNw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "vip7.ez0535.com", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "Y3d/U+Mnf/AFCWfEzhfkRdj1lyABKYAhtsSu0as4J7Y=:oDP3MkVxf8vLBY6xD+99RsR3055CcoNeUnmS4NulKbE=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "65.109.215.50", "port": 31910, "cipher": "2022-blake3-aes-256-gcm", "password": "KTR/p77k8graSD7VVJGQSd8K7FPXoyIFG9QSFz9jDY8=:Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "65.109.215.50", "port": 31910, "cipher": "2022-blake3-aes-256-gcm", "password": "KTR/p77k8graSD7VVJGQSd8K7FPXoyIFG9QSFz9jDY8=:wqnlYXwNdg0zbFFbJRH7VXi07Y0764b4DvpvX/+3L+c=", "udp": true}

@@ -1,4 +1,2 @@
 proxies:
-  - {"name": "EPODONIOS", "type": "ss", "server": "193.151.128.97", "port": 443, "cipher": "2022-blake3-chacha20-poly1305", "password": "iFxltqscJVLJdHunZXPCmb4ToHN7LhkoeYwpQcU/Pbo=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "fr.manoapp.ir", "port": 21795, "cipher": "2022-blake3-aes-128-gcm", "password": "Fsprt1oeWjjDV4tNdSZMSw==:suQ6TcxzuaJoSFs59mIuXQ==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}

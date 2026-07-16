@@ -1,2 +1,3 @@
 proxies:
+  - {"name": "EPODONIOS", "type": "ss", "server": "silver.diginetv.online", "port": 2052, "cipher": "2022-blake3-aes-256-gcm", "password": "S5RCI6gJ6SUOcdnNpcEgR1UVzid+8O8/+DceUSHDnFs=:iffgdPSR8g75t49n3xCb9+OG2WGJTjUhohpPoHNT598=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}

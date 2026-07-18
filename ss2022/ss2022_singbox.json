@@ -42,36 +42,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "silver.diginetv.online",
-      "server_port": 2052,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "S5RCI6gJ6SUOcdnNpcEgR1UVzid+8O8/+DceUSHDnFs=:iffgdPSR8g75t49n3xCb9+OG2WGJTjUhohpPoHNT598=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "167.150.100.115",
-      "server_port": 27755,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

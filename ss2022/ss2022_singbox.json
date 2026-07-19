@@ -6,6 +6,19 @@
       "server": "gr-2.tiptop-1.top",
       "server_port": 443,
       "method": "2022-blake3-aes-128-gcm",
+      "password": "YyO3pfhWyveU+LJmfKmLnw==:35TB55iaP1vCT+p96Z9dVg==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "gr-2.tiptop-1.top",
+      "server_port": 443,
+      "method": "2022-blake3-aes-128-gcm",
       "password": "YyO3pfhWyveU+LJmfKmLnw==:m1K6a3UDLjBAtGb1UKTrVw==",
       "multiplex": {
         "enabled": true,

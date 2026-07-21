@@ -3,19 +3,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "fi-1.tiptop-1.top",
-      "server_port": 443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "YyO3pfhWyveU+LJmfKmLnw==:R5J/L7lnhXe+HQWd9SiKUw==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "gr-2.tiptop-1.top",
       "server_port": 443,
       "method": "2022-blake3-aes-128-gcm",

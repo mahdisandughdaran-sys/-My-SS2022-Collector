@@ -29,6 +29,45 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "91.107.135.249",
+      "server_port": 23859,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "O/PIaORGUHszEtgk1t+iXy5c9vtYpg8SrTX53lWsKRk=:EUjNSWl1N+KMYe/3EFrS1hlhD8YeKQyefcvaFJ2t9jo=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "91.107.135.249",
+      "server_port": 23859,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "O/PIaORGUHszEtgk1t+iXy5c9vtYpg8SrTX53lWsKRk=:Ub5V8YUR5p7vUaodBUOEsoZqjpchh7X5xyHdIIE2XNM=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "91.107.135.249",
+      "server_port": 23859,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "O/PIaORGUHszEtgk1t+iXy5c9vtYpg8SrTX53lWsKRk=:ZZ2lZq0e0tYZBxYL0cAjqEcHYbu45dnUlX3RKXTgD5M=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "65.109.219.124",
       "server_port": 18269,
       "method": "2022-blake3-aes-256-gcm",

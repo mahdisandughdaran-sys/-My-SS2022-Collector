@@ -77,6 +77,19 @@
         "protocol": "smux",
         "max_connections": 8
       }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "91.107.159.216",
+      "server_port": 58252,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "L+us5r3cQOO7IfiJvohsl3wrOI6LCuzlApbuYQb+/eE=:zfneB18KGBkbi9IXDaRd4q0Wx1HIZ4pDR8eneJALYkU=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
     }
   ]
 }

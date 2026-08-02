@@ -68,19 +68,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "5.42.94.190",
-      "server_port": 520,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "YXu+ao0X+qL8bxKkvWQPn4+TADPczKNL5FgoLLPQfiY=:H0Ci/BwMfiXADOb++vMBCx37C+zcKo+EWRJ3WEYr71A=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "46.226.166.205",
       "server_port": 39531,
       "method": "2022-blake3-aes-256-gcm",

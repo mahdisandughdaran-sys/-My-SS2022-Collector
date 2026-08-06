@@ -1,4 +1,4 @@
 proxies:
-  - {"name": "EPODONIOS", "type": "ss", "server": "you.trmas-gs.ir", "port": 2011, "cipher": "2022-blake3-aes-128-gcm", "password": "OQ0l36JXqd/ygOxZlD3euQ==:qXzcEUPQLYCbHWO0+GFyXg==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "80.91.86.179", "port": 1070, "cipher": "2022-blake3-aes-256-gcm", "password": "5MnYSugw6Dp/r4HIhoRkoQI6jM3SwL9+i7GNRLxBWHo=:lEEhmaPyJCFJSc7IlF120c+toWUlQNtegmzSwS/L//s=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "91.107.157.137", "port": 56352, "cipher": "2022-blake3-aes-256-gcm", "password": "VDD+vDFdq8ad4Yh2f9hB7cEayWIKmZkTaUxxC2uC/c8=:wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "167.150.100.115", "port": 27755, "cipher": "2022-blake3-aes-256-gcm", "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=", "udp": true}

@@ -120,10 +120,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "irancell1.xher0.de",
-      "server_port": 47180,
+      "server": "167.150.100.115",
+      "server_port": 27755,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "qmIh040EnQDyMju+FwPh9lwYQxz3EzKcM+NQ2zGrmVE=:ui1CHtFJJWir48RxfGrBnJJtgOtLIYuNI2Uq9wm5q1E=",
+      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -133,10 +133,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "soskeynets.xher0.de",
-      "server_port": 47180,
+      "server": "irntu.libertyspeed.ir",
+      "server_port": 2030,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "qmIh040EnQDyMju+FwPh9lwYQxz3EzKcM+NQ2zGrmVE=:ui1CHtFJJWir48RxfGrBnJJtgOtLIYuNI2Uq9wm5q1E=",
+      "password": "ymUEIwRL3oUm0/ORHaddvQu5iKUqmh71Vh9KPkL19mU=:Hki4I2MHkjOVpTSzPP9Be23ECE71rJSXvMgY7Wl/4ak=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

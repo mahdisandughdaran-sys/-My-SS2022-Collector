@@ -116,6 +116,32 @@
         "protocol": "smux",
         "max_connections": 8
       }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "irancell1.xher0.de",
+      "server_port": 47180,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "qmIh040EnQDyMju+FwPh9lwYQxz3EzKcM+NQ2zGrmVE=:ui1CHtFJJWir48RxfGrBnJJtgOtLIYuNI2Uq9wm5q1E=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "soskeynets.xher0.de",
+      "server_port": 47180,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "qmIh040EnQDyMju+FwPh9lwYQxz3EzKcM+NQ2zGrmVE=:ui1CHtFJJWir48RxfGrBnJJtgOtLIYuNI2Uq9wm5q1E=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
     }
   ]
 }

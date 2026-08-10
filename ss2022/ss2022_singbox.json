@@ -3,6 +3,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "77.110.110.146",
+      "server_port": 25503,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "2x86D1iKYKRrt0ECgTDX4gpryT33m2liAR5Kw2Pcwis=:TOLN/vY4rKphLXefK5qKPJ6zfJsrCWr8I46VnZ5GzRY=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "65.109.208.236",
       "server_port": 11957,
       "method": "2022-blake3-aes-256-gcm",
@@ -33,6 +46,19 @@
       "server_port": 1070,
       "method": "2022-blake3-aes-256-gcm",
       "password": "5MnYSugw6Dp/r4HIhoRkoQI6jM3SwL9+i7GNRLxBWHo=:lEEhmaPyJCFJSc7IlF120c+toWUlQNtegmzSwS/L//s=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "77.110.110.146",
+      "server_port": 40753,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "6nfccLEEptxkmDX5n88BigCDtH2be/OT1Dvo+OnJ/Eg=:ChsmLJH3Mbf268E5U0GlzhZGf1xuKw/YI+GYK5kXUOQ=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -111,6 +137,45 @@
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
       "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "77.110.110.146",
+      "server_port": 50376,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "lEj426WMwrIawCRO09WC6hvVYga+W0UaINRV3BG6DaQ=:IJNw/TbykfBtya1ysI015+nUNS/XnO9p0p+E8GiVDe4=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "77.110.110.146",
+      "server_port": 33258,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "mXMh/6qJOCEFU150uimR9XsnudnL38fXksh8MqEW/Vs=:Fwdm/LDaqAHI9jMq+HR1e+kAIQKc1Kyug748KYlzWUs=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "77.110.110.146",
+      "server_port": 34174,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "v17n8/bn+30cZXvkwTBEWjsueO3H8kRyUdgbOEcESs8=:CUbFjgyqx/E3DOPyurCxVyK5AUP7QjANA5SlPxj/Ass=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

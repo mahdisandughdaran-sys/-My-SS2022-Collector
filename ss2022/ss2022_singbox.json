@@ -29,6 +29,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "144.24.229.230",
+      "server_port": 61312,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "EOMKHJ7htCaQWlQV7lWfaNS5jnhWg94TbhEMDEby7sE=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "163.176.64.97",
       "server_port": 59319,
       "method": "2022-blake3-chacha20-poly1305",
@@ -107,19 +120,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "78.47.35.178",
-      "server_port": 50667,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "aMVCBvxurcuK4oBwbTyDdhdbbn8a4sNHpMrJVfgmVtM=:+B108T8JuAXHOxHJjhD6RDJAz0hcWkiTB9JAGnvjswI=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "49.13.3.249",
       "server_port": 23997,
       "method": "2022-blake3-aes-256-gcm",
@@ -146,10 +146,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "167.150.100.115",
-      "server_port": 27755,
+      "server": "193.124.203.144",
+      "server_port": 443,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
+      "password": "mkKfxndCZ9c3YIkAAmANrtfI/mlGJwwV9/GdVTYgW3M=:JazxiYc3Mc5tLn/Te3T59W6Zw4Z/BPuepQ0VlVD/cZ8=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -159,10 +159,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "193.124.203.144",
-      "server_port": 443,
+      "server": "65.109.208.236",
+      "server_port": 42484,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "mkKfxndCZ9c3YIkAAmANrtfI/mlGJwwV9/GdVTYgW3M=:JazxiYc3Mc5tLn/Te3T59W6Zw4Z/BPuepQ0VlVD/cZ8=",
+      "password": "rbud6CCoqJ8zQAwJvsNR9EI3FZRtdRkeKe70xs28JGM=:fB5XqrRz/EkEWHtE9whPKiWkDhmhlLXcamsGBV2pz2k=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

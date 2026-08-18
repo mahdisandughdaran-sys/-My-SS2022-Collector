@@ -1,5 +1,4 @@
 proxies:
-  - {"name": "EPODONIOS", "type": "ss", "server": "134.65.62.195", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "5CkaY/EgA106Ec/ceWI2A4I7BXIgbDUJ6hRnDiCWX60=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "161.118.225.233", "port": 56927, "cipher": "2022-blake3-chacha20-poly1305", "password": "AKikViE/m8OlVEfjyowo/KEuxifea5hFUDYTloI2SW8=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "161.118.220.20", "port": 56927, "cipher": "2022-blake3-chacha20-poly1305", "password": "GQqbqOXuxZENzAQNNBNHN1f0G98P3t929vf932qYclw=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "129.146.200.192", "port": 50356, "cipher": "2022-blake3-chacha20-poly1305", "password": "OsRpcdI78GvsqYNATHIGyy69pRvQ//5+6m3ACRpa1L4=", "udp": true}
@@ -10,6 +9,4 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "138.124.90.40", "port": 54052, "cipher": "2022-blake3-aes-256-gcm", "password": "QbQjl3rTL/ktrJ2UVFL8ZBF3BP1tIQyNct/r4ACYKyE=:9469X1Ff4cTpjZM0c1KIi2TSwi6X0xPdMjZAUsqKaKw=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "49.13.3.249", "port": 23997, "cipher": "2022-blake3-aes-256-gcm", "password": "dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "138.124.90.40", "port": 40374, "cipher": "2022-blake3-aes-256-gcm", "password": "eRkyDNHEJODVfPq0RD/nENW8FDSYGZngm3nRSO2aPqI=:sz9AuStUkPobl1YlyuqVhEx7K2B1IV7K0+bZ+mvRVH0=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "167.150.100.115", "port": 27755, "cipher": "2022-blake3-aes-256-gcm", "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "193.124.203.144", "port": 443, "cipher": "2022-blake3-aes-256-gcm", "password": "mkKfxndCZ9c3YIkAAmANrtfI/mlGJwwV9/GdVTYgW3M=:JazxiYc3Mc5tLn/Te3T59W6Zw4Z/BPuepQ0VlVD/cZ8=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "65.109.208.236", "port": 42484, "cipher": "2022-blake3-aes-256-gcm", "password": "rbud6CCoqJ8zQAwJvsNR9EI3FZRtdRkeKe70xs28JGM=:fB5XqrRz/EkEWHtE9whPKiWkDhmhlLXcamsGBV2pz2k=", "udp": true}

@@ -3,10 +3,23 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "129.151.88.180",
+      "server": "129.151.84.137",
       "server_port": 61312,
       "method": "2022-blake3-chacha20-poly1305",
-      "password": "7CCOp1icO5ZfmmzSweQowSvA5+efeJ3HrKxHDAAJmUc=",
+      "password": "1MX/11eaRm2ObfaODRKi4ZNAWWxrsaPFCKtiyssCJMs=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "92.5.228.26",
+      "server_port": 45819,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "5Xn2qHoVdu6aJjp6R2KjKrk10+qFniNh5OjKW93TdWk=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -33,6 +46,71 @@
       "server_port": 56927,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "GQqbqOXuxZENzAQNNBNHN1f0G98P3t929vf932qYclw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "146.235.35.83",
+      "server_port": 59319,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "IcsKPKHKW9DOiQEeXcRnYMR4dcZ3zP5g0DgZk6CQHWw=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "168.107.81.254",
+      "server_port": 56927,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "SeX7cLfW+WWgFoc3nPSBxPxBPtE63qwODMqpUf7Slho=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "129.159.55.129",
+      "server_port": 59319,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "e7n6+Uknur6uXiP4zuJYN+n6KACAX9+s17J3MLnzNB4=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "129.151.66.31",
+      "server_port": 61312,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "fr5M3Mv/8HIcozWHJCfI8SeuOYixEodurkiYtFmanP8=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "129.151.77.35",
+      "server_port": 61312,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "sC1RiQOK5Ts5zgUYDwB/AGFbqjpytI0/AczgkgCCnew=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

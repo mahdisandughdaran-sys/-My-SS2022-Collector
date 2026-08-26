@@ -68,19 +68,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "129.146.38.3",
-      "server_port": 50356,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "7D9/3Y5+MCeBDNpC6ftRDlkAJdKpXCc1mOE94SvcXEc=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "134.185.94.203",
       "server_port": 56927,
       "method": "2022-blake3-chacha20-poly1305",
@@ -98,19 +85,6 @@
       "server_port": 59319,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "BFQyHWB20qvH0asuixcidL1wLU6XLdmFzANF3GjLFQw=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "129.146.202.210",
-      "server_port": 50356,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "EoVbt6nGXCEmXrCMByEIS4GVfeplyyrCfeITadO2Td8=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -250,23 +224,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "193.124.203.144",
-      "server_port": 443,
+      "server": "167.150.100.115",
+      "server_port": 27755,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "mkKfxndCZ9c3YIkAAmANrtfI/mlGJwwV9/GdVTYgW3M=:JazxiYc3Mc5tLn/Te3T59W6Zw4Z/BPuepQ0VlVD/cZ8=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "65.109.211.136",
-      "server_port": 58008,
-      "method": "2022-blake3-aes-256-gcm",
-      "password": "qFPZV44AkzcrMfUSy+nK/hyz/VkkNL2eksPTsXXuz0A=:HgkGFrFPuvmaiE90Va+2JwUgiGAqDEZ51YnksOtCMAI=",
+      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

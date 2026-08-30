@@ -3,19 +3,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "mn5.levikogjgfdd.ir",
-      "server_port": 56927,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "+RVrrYpka8vzDG1IZIHEcuyFSuvRnfpylJWmqh3xGOc=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "163.176.246.48",
       "server_port": 59319,
       "method": "2022-blake3-chacha20-poly1305",
@@ -146,36 +133,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "129.151.82.158",
-      "server_port": 61312,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "MLVcvtR/UBSlUEC3IwyukwjvKvvRvw9x6Op6LVBX0GA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "158.101.202.112",
       "server_port": 45819,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "O39h/Pj+/6QsXWuRRCOfrqATlOoz0v5okUOfK+X4XWM=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "mn4.levikogjgfdd.ir",
-      "server_port": 56927,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "Pe9lvXuaLi5pwiVFi9DI90KfeThZMXeOE6bZ6t9HsbM=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -224,32 +185,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "130.61.144.2",
-      "server_port": 59924,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "kmkoVYMV3CiplXx9HrZ9swEnhpwqXMY0rOXC34dEi08=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "130.61.151.8",
-      "server_port": 59924,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "jsjRco4bpxjDpHTSx9qchaZhbzJtIRTREVFoIKkBJyw=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "134.98.144.146",
       "server_port": 45819,
       "method": "2022-blake3-chacha20-poly1305",
@@ -267,19 +202,6 @@
       "server_port": 61312,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "nCsmzfb2IwkVZT9CLfmvL3tEOAHrHXzkXqcZAM57qqk=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "144.24.229.181",
-      "server_port": 61312,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "rpjoXW0RKmr8FsgAZEwIaTidgIizyY94H0k4lJw/HGw=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -419,10 +341,23 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "167.150.100.115",
-      "server_port": 27755,
+      "server": "65.109.215.50",
+      "server_port": 13049,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=",
+      "password": "rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq/4/w=:B+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "65.109.215.50",
+      "server_port": 13049,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq/4/w=:Htb6AwARYBt+193LFyDnfe1fS+QDu9JHsiSw1waN0uc=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

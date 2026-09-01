@@ -3,10 +3,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "163.176.246.48",
-      "server_port": 59319,
+      "server": "138.2.152.206",
+      "server_port": 59924,
       "method": "2022-blake3-chacha20-poly1305",
-      "password": "3CoIkS9kkeoyGQsy7tQD19IGQJdvwu76tTKyalr7mKs=",
+      "password": "+o28qDrpNZm1kAAYfxby8k2hsmW5zHBi7rLlmzOxRGo=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -16,10 +16,23 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "138.2.161.254",
-      "server_port": 59924,
+      "server": "140.245.99.244",
+      "server_port": 56927,
       "method": "2022-blake3-chacha20-poly1305",
-      "password": "1XTdzbvLts9QsSGsu6VgI1Vu65EFYaQurcuu3vlt/ak=",
+      "password": "+igdJIkJgF39Q5wXddAP9Rlj667jG6pucZ3pIhq3CyY=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "163.176.246.48",
+      "server_port": 59319,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "3CoIkS9kkeoyGQsy7tQD19IGQJdvwu76tTKyalr7mKs=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -68,19 +81,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "137.131.128.103",
-      "server_port": 59319,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "GGGJ69mNdkRpgCbE/lUZvtaebOqshKW8PVWgIUaaRHc=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "152.70.47.21",
       "server_port": 59924,
       "method": "2022-blake3-chacha20-poly1305",
@@ -107,10 +107,49 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "129.146.27.138",
+      "server_port": 50356,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "JsNI5ZMcbBpm0Ym1Li12sF47K1R3CvcWF8orVn+p1Ds=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "158.101.202.112",
       "server_port": 45819,
       "method": "2022-blake3-chacha20-poly1305",
       "password": "O39h/Pj+/6QsXWuRRCOfrqATlOoz0v5okUOfK+X4XWM=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "213.35.118.140",
+      "server_port": 56927,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "QBlUmYJVDFiaz6ug+SYat6dnNH0irhfF26JGEv+axh4=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "152.69.213.76",
+      "server_port": 56927,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "cprIDP4qYEtehD8jch7mdRH4GV4nRhqNzqsQigWxCNQ=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -172,10 +211,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "Mari.Sav-savteAm.iR",
-      "server_port": 2014,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "3eWTt66tz8p8stYLB2vc7Q==:8Vvtc20TVjXDkTLzzSjDZg==",
+      "server": "92.5.171.85",
+      "server_port": 59924,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "qPFCVncztugF2bGPwp6Kt5tYpotFo7PrPFtZWokt8Nc=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -185,10 +224,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "Shada.Sav-savteAm.iR",
-      "server_port": 2012,
+      "server": "192.3.196.182",
+      "server_port": 8416,
       "method": "2022-blake3-aes-128-gcm",
-      "password": "JlbkmBuDIRu+qgsklG1Xeg==:8Vvtc20TVjXDkTLzzSjDZg==",
+      "password": "Z7+ihCahl4v8UUYCgPv93w==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

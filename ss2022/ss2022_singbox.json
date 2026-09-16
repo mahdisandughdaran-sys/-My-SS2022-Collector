@@ -55,19 +55,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "129.151.64.19",
-      "server_port": 61312,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "B2fwo8FnMvOLaNLVDYYbMa5oXBejTe5GvPFJhldAyF0=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "129.151.72.38",
       "server_port": 61312,
       "method": "2022-blake3-chacha20-poly1305",
@@ -150,6 +137,19 @@
       "server_port": 4680,
       "method": "2022-blake3-aes-128-gcm",
       "password": "1JvlmtT4v8y1yGczDtT6Ww==:aCtpeMietGsJY50h6jDW6w==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "85.209.157.184",
+      "server_port": 8388,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "EIIwJPg8YqgnjLLd58zoTg==:698E7Tp3B1m3rCkOdgUVEw==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
@@ -254,6 +254,32 @@
       "server_port": 1943,
       "method": "2022-blake3-aes-256-gcm",
       "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:aE6MxBTe+MXHd9HoF2FF/BzKFqGTReMpMevlQhvsu0s=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "arm.drwsh.org",
+      "server_port": 1943,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:zlvfoUzEAF8qohFcDFHKs9h9n9l3xLIuxrVGnAYbBDg=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "sweden.dfsah.org",
+      "server_port": 1943,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:zlvfoUzEAF8qohFcDFHKs9h9n9l3xLIuxrVGnAYbBDg=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

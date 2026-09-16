@@ -3,7 +3,6 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "92.5.235.28", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "2nZcqSx7G+z7ucbdCBvg2DJfgNv+3tz44R4t1a2fx5o=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "168.107.84.248", "port": 56927, "cipher": "2022-blake3-chacha20-poly1305", "password": "8s5JiHfMgqSeLxMJ02iVSqXInUhq+NrPwp0xLc8jPAU=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "130.61.131.106", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "ArqUdhheIXgMGupUWwbbvZ7yRAWy5jHmiPtxwrLhs3k=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "129.151.64.19", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "B2fwo8FnMvOLaNLVDYYbMa5oXBejTe5GvPFJhldAyF0=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "129.151.72.38", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "Up0+uVr81SdwJumU4IQyZQYfIL+J1mPjEANj5EbLc9w=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "134.98.130.54", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "Vx4uE0dDRMAJbS10iwd2+wqqdIqaa87lf2CyTfPc7kE=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "130.61.119.35", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "bYDYE98Um55QDC0NmNkkSta8WZY+76jxtLFZNaug0GY=", "udp": true}
@@ -11,6 +10,7 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "134.65.57.72", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "wtrUMVbSRSi4MlzATr+FjvqFCczZWFxG3hZ7+IWW1y0=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "167.233.188.191", "port": 4680, "cipher": "2022-blake3-aes-128-gcm", "password": "1JvlmtT4v8y1yGczDtT6Ww==:aCtpeMietGsJY50h6jDW6w==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "dopr.rehan-iogsar.ir", "port": 4680, "cipher": "2022-blake3-aes-128-gcm", "password": "1JvlmtT4v8y1yGczDtT6Ww==:aCtpeMietGsJY50h6jDW6w==", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "85.209.157.184", "port": 8388, "cipher": "2022-blake3-aes-128-gcm", "password": "EIIwJPg8YqgnjLLd58zoTg==:698E7Tp3B1m3rCkOdgUVEw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "80.91.86.179", "port": 1070, "cipher": "2022-blake3-aes-256-gcm", "password": "5MnYSugw6Dp/r4HIhoRkoQI6jM3SwL9+i7GNRLxBWHo=:lEEhmaPyJCFJSc7IlF120c+toWUlQNtegmzSwS/L//s=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "138.124.90.40", "port": 46194, "cipher": "2022-blake3-aes-256-gcm", "password": "CVFi3q6eBelRsnJXXiozPMpRlNOD2bW8K93Cfkcfv4g=:AYTCg2JanyDekOJ7n5pTOFYHFNZvJ8wMrhs377s8/8w=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "aaa.app9.ir", "port": 2082, "cipher": "2022-blake3-aes-256-gcm", "password": "KComEQ28cVXIzVlxdpTy6LXLockXExZUh1xUJT49/nk=:hPqMImCwa6rdBbI/rlAMiUeSZEi5QpNNUZC5G/89ZHc=", "udp": true}
@@ -19,3 +19,5 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "141.95.29.163", "port": 2083, "cipher": "2022-blake3-aes-256-gcm", "password": "cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:JTou+JSmZOAyrMLdvNBcXFm0Y9luZ/8u17ie48jQfVc=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "138.124.90.40", "port": 40374, "cipher": "2022-blake3-aes-256-gcm", "password": "eRkyDNHEJODVfPq0RD/nENW8FDSYGZngm3nRSO2aPqI=:sz9AuStUkPobl1YlyuqVhEx7K2B1IV7K0+bZ+mvRVH0=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "176.53.17.241", "port": 1943, "cipher": "2022-blake3-aes-256-gcm", "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:aE6MxBTe+MXHd9HoF2FF/BzKFqGTReMpMevlQhvsu0s=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "arm.drwsh.org", "port": 1943, "cipher": "2022-blake3-aes-256-gcm", "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:zlvfoUzEAF8qohFcDFHKs9h9n9l3xLIuxrVGnAYbBDg=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "sweden.dfsah.org", "port": 1943, "cipher": "2022-blake3-aes-256-gcm", "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:zlvfoUzEAF8qohFcDFHKs9h9n9l3xLIuxrVGnAYbBDg=", "udp": true}

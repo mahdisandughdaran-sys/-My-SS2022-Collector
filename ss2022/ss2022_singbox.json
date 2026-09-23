@@ -285,19 +285,6 @@
         "protocol": "smux",
         "max_connections": 8
       }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "美国+V2CROSS.COM",
-      "server": "129.151.73.227",
-      "server_port": 61312,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "EG7gd6f1FSkm+x/OoWRHzsRT1Jl/tSx0EWxkprEGZSo=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
     }
   ]
 }

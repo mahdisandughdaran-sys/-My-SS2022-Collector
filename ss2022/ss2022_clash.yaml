@@ -1,12 +1,8 @@
 proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "129.146.202.221", "port": 50356, "cipher": "2022-blake3-chacha20-poly1305", "password": "+fzJvpwW2VTKUH4q8DKLuZXnibvrI2eRuStiXN8txX4=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "129.151.68.65", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "0N1dYtQFmHnwBeKv53o5MJDkRzbGYY1KkLXnaNkWo3o=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "134.98.143.226", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "0uLw1WmIWRGsdCKwN2g9YESLZvVhpAbzvfEqLK8axgw=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "92.5.235.28", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "2nZcqSx7G+z7ucbdCBvg2DJfgNv+3tz44R4t1a2fx5o=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "129.146.78.224", "port": 50356, "cipher": "2022-blake3-chacha20-poly1305", "password": "4MOR5nKc3kU0XBT84w2bQfJJaiod47VBpTqv1LMkds8=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "144.24.225.39", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "JXVCv3N78Ulr/V2Rsk0UN8DJEzD+yC0cbtWo9zjGTkg=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "134.98.130.54", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "Vx4uE0dDRMAJbS10iwd2+wqqdIqaa87lf2CyTfPc7kE=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "130.61.119.35", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "bYDYE98Um55QDC0NmNkkSta8WZY+76jxtLFZNaug0GY=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "92.5.231.133", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "gBPl8MuQUn/PBFVy+dKiMcPL6c0Ergh8ZmmGqMIH2NA=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "dopr.rehan-iogsar.ir", "port": 4680, "cipher": "2022-blake3-aes-128-gcm", "password": "1JvlmtT4v8y1yGczDtT6Ww==:aCtpeMietGsJY50h6jDW6w==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "80.91.86.179", "port": 1070, "cipher": "2022-blake3-aes-256-gcm", "password": "5MnYSugw6Dp/r4HIhoRkoQI6jM3SwL9+i7GNRLxBWHo=:lEEhmaPyJCFJSc7IlF120c+toWUlQNtegmzSwS/L//s=", "udp": true}

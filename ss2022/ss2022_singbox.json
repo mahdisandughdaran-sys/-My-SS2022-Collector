@@ -185,6 +185,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "ezdqguqp7faf.dop69.com",
+      "server_port": 2087,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "TT5xvvuJOOIoAuYlJWuyxg6vl722b7tuAWwxsW5Vb6A=:v9V+l7rygldgkzgzjL09sexU+b2TioPzVRd+p82J8Kk=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "nao2.iorqino.ir",
       "server_port": 2087,
       "method": "2022-blake3-aes-256-gcm",

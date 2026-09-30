@@ -1,14 +1,15 @@
 proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "129.151.66.142", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "+Nt5IdazH1gH7Cg7OvFoDX8Rx3koZi3YnHbunnlAuUM=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "161.118.219.5", "port": 56927, "cipher": "2022-blake3-chacha20-poly1305", "password": "9PfRlIGvpMs8nD7s65B/3IxccQG+p631X9tCLZy+CRI=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "130.61.238.73", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "Myitj2dzi6O4zVyl9FpAcvzBArkfvs7vcUgfLvT+hZQ=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "134.65.57.26", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "Sm4F5fX+ZJpWpkXMNbw0yYrWolYIiwknVYDwx8eus78=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "130.61.239.221", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "SHqxWT07Pxp6FnJE3d2aP7NuKJoiq7o9OPkXZi9ccZY=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "130.61.232.1", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "UoUzY5YlcUBJpgXi/Z3PEaf58E+++FJ+3AKry5V7J9Y=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "134.65.58.210", "port": 61312, "cipher": "2022-blake3-chacha20-poly1305", "password": "ZG5WzCzzYlKcfxZefNynxt0D2yveQ5jkD74pwXJNw/w=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "130.61.38.201", "port": 59924, "cipher": "2022-blake3-chacha20-poly1305", "password": "cpfozXiC+kIkLtCqoXJ6jAIw0eQjqNjK1r5xBOelSPk=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "158.178.144.253", "port": 45819, "cipher": "2022-blake3-chacha20-poly1305", "password": "pWj1DGzUHRHjxz7SSvKLbmW1C6ivekCfcINb9U77l6g=", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "dopr.rehan-iogsar.ir", "port": 4680, "cipher": "2022-blake3-aes-128-gcm", "password": "1JvlmtT4v8y1yGczDtT6Ww==:aCtpeMietGsJY50h6jDW6w==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "85.133.250.3", "port": 8443, "cipher": "2022-blake3-aes-128-gcm", "password": "Dig9t4E8rdydV1374b3Euw==:42yHZbGJO87vJoyiQvzDpw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "81.12.33.220", "port": 8080, "cipher": "2022-blake3-aes-128-gcm", "password": "IsDcGLee0Vlvf3gbDpO+Fw==:42yHZbGJO87vJoyiQvzDpw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "81.12.33.223", "port": 8080, "cipher": "2022-blake3-aes-128-gcm", "password": "gXqk6/19VX5/wJYYbnV20Q==:42yHZbGJO87vJoyiQvzDpw==", "udp": true}
-  - {"name": "EPODONIOS", "type": "ss", "server": "81.12.33.223", "port": 8080, "cipher": "2022-blake3-aes-128-gcm", "password": "gXqk6/19VX5/wJYYbnV20Q==:oyostJKjZ0cEhArNmSwVmw==", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "31.57.185.82", "port": 18676, "cipher": "2022-blake3-aes-256-gcm", "password": "1q0AYe4ERcEuGP/nDnsaPkzX225nb3oYkwZSqaR1TOU=:PoW+xEJvcRkDE79OQYDYEBVTu/bdJuPPVebj3KpKTrU=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "138.124.90.40", "port": 46194, "cipher": "2022-blake3-aes-256-gcm", "password": "CVFi3q6eBelRsnJXXiozPMpRlNOD2bW8K93Cfkcfv4g=:AYTCg2JanyDekOJ7n5pTOFYHFNZvJ8wMrhs377s8/8w=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "31.57.185.82", "port": 44211, "cipher": "2022-blake3-aes-256-gcm", "password": "AoX0OmZFGpdUTNs2eqja6xyxBALTzSE4vMcnRI5AjQU=:cxVezWKT5vM0XqQUjjOspQDRJFnXZKgdH0Ka9N2fPb8=", "udp": true}
@@ -23,3 +24,5 @@ proxies:
   - {"name": "EPODONIOS", "type": "ss", "server": "176.53.17.241", "port": 1943, "cipher": "2022-blake3-aes-256-gcm", "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:aE6MxBTe+MXHd9HoF2FF/BzKFqGTReMpMevlQhvsu0s=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "188.225.78.31", "port": 2053, "cipher": "2022-blake3-aes-256-gcm", "password": "g4h/AcJh1+jg9+yonlMK4Wq7fhbFY3NkcOzUVlZ9GjU=", "udp": true}
   - {"name": "EPODONIOS", "type": "ss", "server": "31.57.185.82", "port": 41770, "cipher": "2022-blake3-aes-256-gcm", "password": "upFH0BmL9pV55mch4LvbPLe+Mf7vgG0YHGaTOT9gMG0=:t1hZF7WQEYGf0ycfk4son7eeAaVkfOxscBpbk5H/Zyo=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "31.57.185.82", "port": 23114, "cipher": "2022-blake3-aes-256-gcm", "password": "vS/2+E2vOG1C68QgmugNLDAxJqtGQeIJVI8lUu20n9Y=", "udp": true}
+  - {"name": "EPODONIOS", "type": "ss", "server": "nl-irancell3.xelfona.ir", "port": 49548, "cipher": "2022-blake3-aes-256-gcm", "password": "zZ+k8UwdTQ9ZTnxEodTN2YI6KrFKEAcBWgCbLZIVUTE=:LbWEdFyjKcvZcv9agyGttSn0HNap+ecf50/UrlGMBCQ=", "udp": true}

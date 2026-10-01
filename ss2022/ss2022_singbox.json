@@ -68,6 +68,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "134.65.58.210",
+      "server_port": 61312,
+      "method": "2022-blake3-chacha20-poly1305",
+      "password": "ZG5WzCzzYlKcfxZefNynxt0D2yveQ5jkD74pwXJNw/w=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "158.178.144.253",
       "server_port": 45819,
       "method": "2022-blake3-chacha20-poly1305",
@@ -124,6 +137,45 @@
       "server_port": 18676,
       "method": "2022-blake3-aes-256-gcm",
       "password": "1q0AYe4ERcEuGP/nDnsaPkzX225nb3oYkwZSqaR1TOU=:PoW+xEJvcRkDE79OQYDYEBVTu/bdJuPPVebj3KpKTrU=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "31.56.196.18",
+      "server_port": 44925,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "4E7elQ/GMfiXO3P+BGEe/t5H2qFT68TVcoYha+Wa8sM=:tMB/uCYCcIA6gdJn/Tn95FyCnk8HD68Y2uYDB3HjJXo=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "31.56.196.18",
+      "server_port": 44925,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "4E7elQ/GMfiXO3P+BGEe/t5H2qFT68TVcoYha+Wa8sM=:ti8OqgTqRRCTQH+BfyGvW3kGU52yQStLuEoVgLQGMyI=",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
+      "server": "212.74.39.64",
+      "server_port": 8080,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "8f9VeFcs3rmlH1yF8gU4pFRmqsXO+bFyLmEArNkaYsM=:3OFKd4aOjmfHSucsOmOAlZSt3CHHXzhdOvgRKGcvf/o=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

@@ -42,19 +42,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "129.151.75.247",
-      "server_port": 61312,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "BHkQ13jCKX876J8TVa/Qx/Awfit4mFt+6V5zdKGczsw=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "130.61.238.73",
       "server_port": 59924,
       "method": "2022-blake3-chacha20-poly1305",

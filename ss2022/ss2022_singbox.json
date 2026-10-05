@@ -55,6 +55,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "Bulbul.color-panel.ir",
+      "server_port": 1080,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "5KZH6WIsE0lygfKRLtstGQ==:d8C1FciKoaFD6xRFbCYyFQ==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "85.133.250.17",
       "server_port": 8080,
       "method": "2022-blake3-aes-128-gcm",

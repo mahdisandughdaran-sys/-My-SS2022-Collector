@@ -42,45 +42,6 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "ash.asan-ps.ir",
-      "server_port": 9443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "Xm3v5BuIiFFXE6vjacf52w==:LnXZj25pZVvsRF0kiIXD7Q==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "asiab.asan-ps.ir",
-      "server_port": 9443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "Xm3v5BuIiFFXE6vjacf52w==:LnXZj25pZVvsRF0kiIXD7Q==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "direct.asan-ps.ir",
-      "server_port": 9443,
-      "method": "2022-blake3-aes-128-gcm",
-      "password": "Xm3v5BuIiFFXE6vjacf52w==:LnXZj25pZVvsRF0kiIXD7Q==",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
       "server": "usina.color-shop.ir",
       "server_port": 1080,
       "method": "2022-blake3-aes-128-gcm",

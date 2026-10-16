@@ -133,6 +133,19 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
+      "server": "tun2.pasmazy1.ir",
+      "server_port": 5081,
+      "method": "2022-blake3-aes-128-gcm",
+      "password": "o3BoLAa/Safia67RuaEZ3g==:GV8QkTQncCUl8IkHlM4CFA==",
+      "multiplex": {
+        "enabled": true,
+        "protocol": "smux",
+        "max_connections": 8
+      }
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "EPODONIOS",
       "server": "5.75.204.152",
       "server_port": 16202,
       "method": "2022-blake3-aes-256-gcm",

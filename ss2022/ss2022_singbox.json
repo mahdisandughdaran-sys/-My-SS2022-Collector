@@ -81,10 +81,10 @@
     {
       "type": "shadowsocks",
       "tag": "EPODONIOS",
-      "server": "dl.pristytools.com",
-      "server_port": 2053,
+      "server": "103.11.76.248",
+      "server_port": 28679,
       "method": "2022-blake3-aes-128-gcm",
-      "password": "D3I8zT6ruZA1xEWD+6qvAg==:OTTAmiSAQzz5fiVJHA6n/w==",
+      "password": "NzJlOTQ5NWYtM2ZkYi00Cg==",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

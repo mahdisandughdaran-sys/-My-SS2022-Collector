@@ -149,19 +149,6 @@
       "server": "31.57.185.124",
       "server_port": 47767,
       "method": "2022-blake3-aes-256-gcm",
-      "password": "LdovOchXf4THjDMK2Gf0nd2tcnlT28GxdzH+r885CBI=:RbSpX+O+KAA8OuleVMgWtotvRtfhd48TA3kfde5ugp4=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "EPODONIOS",
-      "server": "31.57.185.124",
-      "server_port": 47767,
-      "method": "2022-blake3-aes-256-gcm",
       "password": "LdovOchXf4THjDMK2Gf0nd2tcnlT28GxdzH+r885CBI=:nrG68IfAsyrT5ISL5N8T0lC+R3YEQqX/aFSztVQGAdU=",
       "multiplex": {
         "enabled": true,

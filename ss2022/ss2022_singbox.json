@@ -2,11 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "德国+阿里云",
-      "server": "47.254.175.2",
-      "server_port": 443,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=",
+      "tag": "德国+V2CROSS.COM",
+      "server": "frr.drwrdoh.org",
+      "server_port": 8086,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:dQ6WYcPpGX5xIxUVPAR8w1A9eY6kEVoKKW3HleJ6o8Y=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",

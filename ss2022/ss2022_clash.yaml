@@ -1,2 +1,2 @@
 proxies:
-  - {"name": "香港+阿里云", "type": "ss", "server": "47.85.201.22", "port": 443, "cipher": "2022-blake3-chacha20-poly1305", "password": "3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=", "udp": true}
+  - {"name": "香港+阿里云", "type": "ss", "server": "47.85.162.44", "port": 443, "cipher": "2022-blake3-chacha20-poly1305", "password": "3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=", "udp": true}

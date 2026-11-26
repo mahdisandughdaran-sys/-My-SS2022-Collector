@@ -2,24 +2,11 @@
   "outbounds": [
     {
       "type": "shadowsocks",
-      "tag": "香港+阿里云",
-      "server": "47.85.238.210",
+      "tag": "德国+阿里云",
+      "server": "47.254.167.157",
       "server_port": 443,
       "method": "2022-blake3-chacha20-poly1305",
-      "password": "3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=",
-      "multiplex": {
-        "enabled": true,
-        "protocol": "smux",
-        "max_connections": 8
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "香港+阿里云",
-      "server": "47.85.227.36",
-      "server_port": 443,
-      "method": "2022-blake3-chacha20-poly1305",
-      "password": "3NBsnBLanPfG6i3S2GTHineswr6EeSJPb0PCeMQoGoA=",
+      "password": "8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=",
       "multiplex": {
         "enabled": true,
         "protocol": "smux",
